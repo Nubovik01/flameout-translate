@@ -968,14 +968,16 @@
             "noNumberMoney": "",
             "commission": "",
             "noUser": "",
-            "noMoney2": ""
+            "noMoney2": "",
+            "noMoney": ""
         },
         "paygift": {
             "noGift2": "",
             "payToMe": "",
             "payGift": "",
             "noNumberGift": "",
-            "noUser": ""
+            "noUser": "",
+            "noGift": ""
         }
     },
     "slashcommand": {
@@ -1186,7 +1188,8 @@
                     "description": "What question do you want to ask the ball?"
                 },
                 "question": {
-                    "description": ""
+                    "description": "",
+                    "name": ""
                 }
             }
         }
