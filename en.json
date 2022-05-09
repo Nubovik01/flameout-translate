@@ -65,6 +65,41 @@
         "netherite": "netherite",
         "titanium": "titanium"
       }
+    },
+    "pets": {
+      "HohliDog1": "Hohli-dog",
+      "HohliDog2": "hohli-dog",
+      "nopePet": "You don't have pet! %spet",
+      "games1": "Games",
+      "features1": "Features",
+      "games": {
+        "PlushIlya": "Plush Ilya"
+      },
+      "likeFood1": "Liked food",
+      "food": {
+        "FriedPork": "Fried Pork",
+        "FriedSalmon": "Fried Salmon",
+        "DogFood": "Dog Food"
+      },
+      "breed1": "Breed",
+      "breeds": {
+        "hohli1": "Hohli",
+        "hohli2": "hohli"
+      },
+      "name1": "Name",
+      "gender1": "Gender",
+      "health1": "Health",
+      "buyAt1": "Buyed"
+    },
+    "gender": {
+      "man1": "Man",
+      "man2": "man",
+      "man3": "Man",
+      "man4": "man",
+      "woman1": "Woman",
+      "woman2": "woman",
+      "woman3": "Woman",
+      "woman4": "woman"
     }
   },
   "command": {
@@ -116,7 +151,8 @@
     "happyholidays": "Happy New Year!",
     "nomoney1": "you do not have enough coins.",
     "wait1": "please wait...",
-    "error1": "**An error has occurred!** %s",
+    "error1": "⚠️ **An error has occurred!** %s",
+    "error2": "⚠️ **An error has occurred!**\nAPI answer: %s",
     "buy1": "Buy",
     "buy2": "buy",
     "cancel1": "Cancel",
@@ -384,7 +420,7 @@
       "exp": "`+35` experience"
     },
     "uptime": {
-      "botuptime": "🕟 `%s` have passed since the last launch of the bot."
+      "botuptime": "🕟 %s bot was launched."
     },
     "setslowmode": {
       "BotNotHaveRightsToManageChannels": "the bot does not have rights to manage the channel.",
@@ -471,6 +507,17 @@
     "leafsell": {
       "userdonthaveleaf": "you don't have `leafs`.",
       "leafsell": "`%s` leafs are sold for `%s` coins."
+    },
+    "spotify": {
+      "noTrack": "you did not specify the name of the track you want to know about.",
+      "track": "Track",
+      "trackName": "Name: %s",
+      "duration": "Duration: `%s`",
+      "artists": "Artists",
+      "album": "Album"
+    },
+    "lyrics": {
+      "noTrack": "you did not specify the name of the track whose text you want to receive."
     },
     "botinfo": {
       "infothebot": "Bot information",
@@ -606,7 +653,7 @@
     },
     "leaders": {
       "leaders": "Leaders",
-      "notop": "You have not specified what subject you\nwant to get the top `10`. Available:\n- `xp` | Experience\n - `boxes` | Boxes\n - `leafs` | Leaf\n - `snake` | Points in the \"Snake\" game\n - `snus` | Snus\n - `votes` | Bot votes\n - `level` | Level\n - `coins` | Coins\n - `bitcoin` | Bitcoin\n - `gift` | Gifts\n - `bank` | Money in bank\n - `donaterubles` | Donate rubles",
+      "notop": "You have not specified what subject you\nwant to get the top `10`. Available:\n- `xp` | Experience\n - `boxes` | Boxes\n - `leafs` | Leaf\n - `snake` | Points in the \"Snake\" game\n - `snus` | Snus\n - `votes` | Bot votes\n - `level` | Level\n - `coins` | Coins\n - `bitcoin` | Bitcoin\n - `gift` | Gifts\n - `bank` | Money in bank\n - `donaterubles` | Donate rubles\n- `safecoins` | Монеты в сейфе\n- `safelevel` | Уровень сейфа",
       "nousers": "**At the moment, the top is empty.**",
       "leadersofexp": "Leaders of experience",
       "leadersofcoins": "Leaders of coins",
@@ -618,6 +665,8 @@
       "leadersofdonate": "Leaders of donate",
       "leadersofboxes": "Leaders of boxes",
       "leadersofsnus": "Leaders of snus",
+      "leadersOfSafeCoins": "Топ по монетам в сейфе",
+      "leadersOfSafeLevel": "Топ по уровню сейфа",
       "leadersofsnake": "Leaders of snake",
       "leadersofvotes": "Leaders of votes",
       "languagesleaders": "Top by languages using servers"
@@ -731,7 +780,18 @@
       "karma": "Karma: %s",
       "level": "Level: %s",
       "xp": "Experience: %s",
-      "error": "Something went wrong. Please, try again later."
+      "error": "Something went wrong. Please, try again later.",
+      "achievements": "Achievements",
+      "level_field": "Level",
+      "game_activity": "Game Activity",
+      "activity": "Activity",
+      "gifts": "Gifts",
+      "rank_field": "Rank",
+      "other": "Other",
+      "first_login": "First login: <t:%s:R>",
+      "last_login": "Last login: <t:%s:R>",
+      "last_logout": "Last logout: <t:%s:R>",
+      "games_played": "Games played: `%s`"
     },
     "invitebot": {
       "invite": "Invite me to your server!"
@@ -785,7 +845,16 @@
       "wood": "Wood: `%s`",
       "fish": "Fish: `%s`",
       "badges": "Badges:",
-      "footerProfile": "Profile of %s"
+      "footerProfile": "Profile of %s",
+      "main": "Main",
+      "card": "Card",
+      "safe": "Safe",
+      "resources": "Resources",
+      "badges2": "Badges",
+      "instruments": "Instruments",
+      "missing": "Missing",
+      "yes": "Yes",
+      "no": "No"
     },
     "resourceprofile": {
       "resources": "Resources",
@@ -1039,6 +1108,16 @@
         }
       }
     },
+    "ben": {
+      "name": "ben",
+      "description": "Talking Ben теперь и в Discord! Задайте ему свой вопрос и получите ответ :)",
+      "options": {
+        "question": {
+          "name": "question",
+          "description": "Какой вопрос вы хотите спросить у Бена?"
+        }
+      }
+    },
     "bug": {
       "name": "bug",
       "description": "Report found bug to bot developers",
@@ -1046,6 +1125,26 @@
         "bug": {
           "name": "bug",
           "description": "Describe in detail the error you found in the bot"
+        }
+      }
+    },
+    "spotify": {
+      "name": "spotify",
+      "description": "Find out information about the track (its artists, album, duration)",
+      "options": {
+        "track": {
+          "name": "трек",
+          "description": "Enter a track name"
+        }
+      }
+    },
+    "lyrics": {
+      "name": "lyrics",
+      "description": "Find out the lyrics of the track",
+      "options": {
+        "track": {
+          "name": "track",
+          "description": "Enter a track name"
         }
       }
     },
