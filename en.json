@@ -1161,7 +1161,6 @@
             "description": "Ask a question to the ball",
             "options": {
                 "bug": {
-                    "name": "question",
                     "description": "What question do you want to ask the ball?"
                 }
             }
