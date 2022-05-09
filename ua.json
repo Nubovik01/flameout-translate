@@ -66,40 +66,25 @@
                 "titanium": "титановий"
             }
         },
-        "version2": "",
         "pets": {
             "HohliDog1": "",
-            "nopePet": "",
             "food": {
                 "FriedPork": "",
-                "FriedSalmon": "",
                 "DogFood": ""
             },
-            "breed1": "",
             "breeds": {
-                "hohli1": "",
-                "hohli2": ""
+                "hohli1": ""
             },
             "health1": "",
-            "name1": "",
             "gender1": "",
-            "games": {
-                "PlushIlya": ""
-            },
             "games1": "",
-            "likeFood1": "",
             "buyAt1": "",
-            "features1": "",
             "HohliDog2": ""
         },
         "gender": {
-            "man2": "",
             "woman3": "",
-            "woman4": "",
             "woman1": "",
-            "man1": "",
             "man3": "",
-            "man4": "",
             "woman2": ""
         }
     },
@@ -735,18 +720,15 @@
         },
         "hit": {
             "nomention": "ви забули згадати того, кого хочете вдарити.",
-            "userhit": "%s вдаривши %s",
-            "noHitYourself": ""
+            "userhit": "%s вдаривши %s"
         },
         "hug": {
             "nomention": "ви забули згадати того, кого хочете обійняти.",
-            "userhug": "%s обіймати %s",
-            "noHugYourself": ""
+            "userhug": "%s обіймати %s"
         },
         "kiss": {
             "nomention": "ви забули згадати того, кого хочете поцілувати.",
-            "userkiss": "%s цілувати %s",
-            "noKissYourself": ""
+            "userkiss": "%s цілувати %s"
         },
         "hungry": {
             "userhungry": "%s голодний"
@@ -844,15 +826,10 @@
             "fish": "Риб: `%s`",
             "badges": "Значок:",
             "footerProfile": "Профіль: %s",
-            "no": "",
             "instruments": "",
-            "missing": "",
             "resources": "",
-            "badges2": "",
             "yes": "",
-            "main": "",
-            "card": "",
-            "safe": ""
+            "card": ""
         },
         "resourceprofile": {
             "resources": "Ресурс",
@@ -955,29 +932,18 @@
             "answer": "Бен ответил: %s"
         },
         "pay": {
-            "noMoney": "",
             "payMoney": "",
-            "noNumberMoney": "",
             "noMoney2": "",
-            "commission": "",
             "payToMe": "",
-            "noUser": "",
             "minimum": ""
         },
         "paygift": {
-            "noUser": "",
             "payToMe": "",
-            "noNumberGift": "",
             "noGift": "",
-            "payGift": "",
             "noGift2": ""
         },
         "badwords": {
-            "disable": "",
             "enable": ""
-        },
-        "avatar": {
-            "title": ""
         }
     },
     "slashcommand": {
@@ -1044,7 +1010,6 @@
                     "description": "Вкажіть місто, в якому Ви хочете дізнатися погоду."
                 },
                 "city": {
-                    "description": "",
                     "name": ""
                 }
             }
@@ -1192,7 +1157,6 @@
                     "description": "Яке питання ви хочете запитати у кулі?"
                 },
                 "question": {
-                    "name": "",
                     "description": ""
                 }
             }

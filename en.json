@@ -100,8 +100,7 @@
             "woman2": "woman",
             "woman3": "Woman",
             "woman4": "woman"
-        },
-        "version2": ""
+        }
     },
     "command": {
         "indev1": "(in developing)",
@@ -958,25 +957,17 @@
             "answer": "Бен ответил: %s"
         },
         "badwords": {
-            "disable": "",
             "enable": ""
         },
         "pay": {
-            "payToMe": "",
             "payMoney": "",
-            "minimum": "",
             "noNumberMoney": "",
-            "commission": "",
             "noUser": "",
-            "noMoney2": "",
             "noMoney": ""
         },
         "paygift": {
-            "noGift2": "",
             "payToMe": "",
-            "payGift": "",
             "noNumberGift": "",
-            "noUser": "",
             "noGift": ""
         }
     },
@@ -1188,7 +1179,6 @@
                     "description": "What question do you want to ask the ball?"
                 },
                 "question": {
-                    "description": "",
                     "name": ""
                 }
             }
