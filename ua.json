@@ -67,17 +67,12 @@
             }
         },
         "pets": {
-            "food": {
-                "FriedPork": ""
-            },
             "breeds": {
                 "hohli1": ""
             },
-            "gender1": "",
             "buyAt1": ""
         },
         "gender": {
-            "woman3": "",
             "man3": ""
         }
     },
@@ -819,7 +814,6 @@
             "fish": "Риб: `%s`",
             "badges": "Значок:",
             "footerProfile": "Профіль: %s",
-            "resources": "",
             "card": ""
         },
         "resourceprofile": {
@@ -923,11 +917,7 @@
             "answer": "Бен ответил: %s"
         },
         "pay": {
-            "noMoney2": "",
             "minimum": ""
-        },
-        "paygift": {
-            "noGift": ""
         },
         "badwords": {
             "enable": ""

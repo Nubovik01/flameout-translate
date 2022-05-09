@@ -957,11 +957,9 @@
             "answer": "Бен ответил: %s"
         },
         "pay": {
-            "payMoney": "",
             "noUser": ""
         },
         "paygift": {
-            "payToMe": "",
             "noGift": ""
         }
     },

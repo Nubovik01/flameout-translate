@@ -1,393 +1,250 @@
 {
     "general": {
-        "Bonus": "",
         "Fun": "",
-        "Admin": "",
         "Shop": "",
-        "Invite": "",
         "executor": "",
-        "availablefromflamepremium": "",
         "version": "",
-        "Iz": "",
         "Wood": "",
-        "Yandex2": "",
         "tools": {
             "pickaxe": {
-                "wooden": "",
-                "diamond": ""
+                "wooden": ""
             },
             "axe": {
-                "stone": "",
-                "netherite": ""
+                "stone": ""
             }
         },
         "pets": {
             "nopePet": "",
-            "likeFood1": "",
-            "breed1": "",
-            "gender1": ""
+            "breed1": ""
         },
         "gender": {
-            "man2": "",
-            "woman2": ""
+            "man2": ""
         }
     },
     "command": {
         "translate": "",
         "embeds": {
             "rights": {
-                "userNotDeveloper": "",
                 "botNotHaveRightsToManageServer": "",
-                "botNotAdminOfServer": "",
-                "botNotHaveRightsToBan": "",
-                "thisIsNotVoiceChannel": ""
+                "botNotHaveRightsToBan": ""
             }
         },
         "nomanageserverrights": "",
-        "staffOnline1": "",
         "bughuntersOnline1": "",
-        "whoAreWe1": "",
         "happyholidays": "",
-        "error2": "",
         "cancel2": "",
-        "inCache4": "",
         "Cache4": "",
-        "inDB4": "",
         "inDB8": "",
-        "DB4": "",
         "vote": {
             "link": ""
         },
         "8ball": {
             "answers": {
-                "theprospectsarenotverygood": "",
                 "goodprospects": "",
-                "verydoubtful": "",
-                "undoubtedly": "",
-                "notsure": ""
+                "undoubtedly": ""
             }
         },
         "say": {
             "notext": ""
         },
         "shop": {
-            "upgradingpickaxe": {
-                "upgradepickaxe": ""
-            },
             "upgradingaxe": {
                 "nomoneyforupgrade": ""
             }
         },
         "allresources": {
-            "allresinbot": "",
-            "leaf": "",
-            "levels": ""
+            "leaf": ""
         },
         "categorystats": {
             "stats": ""
-        },
-        "vimeworldgames": {
-            "title": ""
         },
         "vimeworldonline": {
             "moderators": {
                 "onlinemoderatorsonserver": ""
             },
             "streams": {
-                "nickname": "",
                 "streamsonserver": ""
             }
-        },
-        "try": {
-            "notext": ""
         },
         "photofilter": {
             "userdonthaveavatar": ""
         },
         "redguyinfo": {
-            "noid": "",
             "userprofile": ""
         },
         "redguystats": {
-            "userprofile": "",
             "allwins": ""
-        },
-        "rob": {
-            "nomention": ""
         },
         "robsnus": {
             "cooldown": "",
-            "victimnosnus1": "",
             "uspeshno": ""
         },
         "roulette": {
-            "maxstavka": "",
             "lost": ""
-        },
-        "school": {
-            "school": ""
         },
         "serverinfo": {
             "verificationLevels": {
                 "high": ""
             },
-            "unknown": "",
-            "afkchannel": "",
-            "cointofemojis": ""
+            "afkchannel": ""
         },
         "perms": {
             "nouser": ""
         },
         "ban": {
-            "usernothaverightstoban": "",
             "userbanned": ""
-        },
-        "setprefix": {
-            "setprefix": ""
         },
         "singing": {
             "usersinging": ""
         },
-        "snuseat": {
-            "nosnus": ""
-        },
         "setslowmode": {
-            "BotNotHaveRightsToManageChannels": "",
-            "changeslowmode": ""
+            "BotNotHaveRightsToManageChannels": ""
         },
         "kick": {
             "noreason": ""
         },
         "bank": {
-            "depositinbank": "",
             "deposit": {
-                "usernothavecoins": "",
-                "userdepositcoins": ""
+                "usernothavecoins": ""
             }
         },
         "card": {
             "changecardnumber": "",
-            "buycard": "",
             "buycardtext": ""
         },
         "bankhack": {
-            "usercanrobbankaccounts": "",
-            "maxcoinsinbank": "",
-            "userlostcoins": ""
+            "maxcoinsinbank": ""
         },
         "fish": {
             "cooldown": ""
-        },
-        "fishsell": {
-            "fishsell": ""
         },
         "woodsell": {
             "userdonthavewood": ""
         },
         "spotify": {
-            "noTrack": "",
             "artists": ""
         },
         "botinfo": {
-            "usingram": "",
             "command": "",
-            "ping": "",
-            "stats": "",
-            "inserver2": ""
+            "stats": ""
         },
         "animals": {
             "randombunny": "",
-            "randomlizard": "",
             "randonkoala": ""
-        },
-        "bitcoin": {
-            "bitcoinsell": ""
         },
         "paybitcoin": {
             "nobitcoins": ""
         },
-        "paysnus": {
-            "nosnus": ""
-        },
         "paygift": {
-            "noNumberGift": "",
-            "payGift": ""
+            "noNumberGift": ""
         },
         "pay": {
-            "noMoney2": "",
-            "commission": ""
+            "noMoney2": ""
         },
         "bug": {
             "noargument": ""
         },
         "checkip": {
-            "neopredeleno": "",
             "continent": "",
-            "domen": "",
             "currency": ""
         },
         "clear": {
-            "nodeleteargument": "",
             "botdoesntrightspermissionstoclear": ""
         },
-        "covid19": {
-            "confirmed": ""
-        },
         "cube": {
-            "maxstavka": "",
-            "botDice": ""
+            "maxstavka": ""
         },
         "dance": {
             "userdancing": ""
-        },
-        "event": {
-            "noevent": ""
         },
         "cointree": {
             "zarabotok": ""
         },
         "leaders": {
-            "notop": "",
             "leadersofleaf": "",
-            "leadersoflevel": "",
-            "leadersOfSafeCoins": "",
-            "languagesleaders": ""
+            "leadersOfSafeCoins": ""
         },
         "badwords": {
             "enable": ""
-        },
-        "donate": {
-            "flameoutpremium": ""
         },
         "gift": {
             "giveresource": ""
         },
         "mgift": {
-            "nogifts": "",
             "havegifts": ""
         },
         "mine": {
-            "iron": "",
-            "redstone": "",
-            "netherite": ""
+            "redstone": ""
         },
         "minecraftplayer": {
-            "nonickname": "",
-            "skininfo": ""
+            "nonickname": ""
         },
         "minecraftserver": {
             "infoofserver": ""
         },
-        "gifttobox": {
-            "usertrade": ""
-        },
         "hug": {
             "nomention": ""
-        },
-        "kiss": {
-            "noKissYourself": ""
         },
         "language": {
             "nolanguage": ""
         },
         "hypixelstats": {
-            "nope": "",
             "achievementpoints": "",
-            "giftsended": "",
             "gamelanguage": "",
-            "karma": "",
             "achievements": "",
-            "gifts": "",
             "last_login": ""
         },
-        "janitor": {
-            "cooldown": ""
-        },
         "help": {
-            "support": "",
-            "idea": ""
+            "support": ""
         },
         "pressf": {
             "nouser": ""
         },
         "profile": {
-            "hideintop": "",
             "golosovalshik": "",
-            "inbank": "",
             "auctions": "",
-            "boxes": "",
             "axe": "",
-            "footerProfile": "",
-            "resources": "",
-            "yes": ""
+            "resources": ""
         },
         "resourceprofile": {
             "coal": "",
-            "copper": "",
             "emerald": ""
         },
         "rankcard": {
-            "bg": {
-                "default2": ""
-            },
             "bgsinfo": {
-                "default1": "",
-                "stones": ""
+                "default1": ""
             },
             "exp": ""
         },
         "minesell": {
-            "noresources": "",
             "selliron": "",
-            "sellquartz": "",
             "sellnetherite": ""
         },
         "mopenbox": {
-            "nedostatochnoBoksov": "",
-            "noResources": "",
-            "coinsfrombox": ""
+            "noResources": ""
         },
         "msnuseat": {
-            "nedostatochnoSnusa": "",
-            "addExp": ""
+            "nedostatochnoSnusa": ""
         },
         "staff": {
             "nubovik": ""
         },
         "ben": {
-            "yes1": "",
             "listening": ""
         }
     },
     "slashcommand": {
-        "dog": {
-            "name": ""
-        },
         "bunny": {
-            "name": ""
-        },
-        "koala": {
             "name": ""
         },
         "panda": {
             "name": ""
         },
-        "covid19": {
-            "name": ""
-        },
         "checkip": {
             "name": ""
         },
-        "weather": {
-            "name": ""
-        },
         "choose": {
-            "name": "",
-            "options": {
-                "two": {
-                    "name": ""
-                }
-            }
+            "name": ""
         },
         "hit": {
             "options": {
@@ -396,13 +253,6 @@
                 }
             }
         },
-        "hug": {
-            "options": {
-                "user": {
-                    "name": ""
-                }
-            }
-        },
         "kiss": {
             "options": {
                 "user": {
@@ -410,35 +260,15 @@
                 }
             }
         },
-        "botlists": {
-            "name": ""
-        },
         "version": {
-            "name": ""
-        },
-        "invitebot": {
             "name": ""
         },
         "vote": {
             "name": ""
         },
-        "idea": {
-            "options": {
-                "idea": {
-                    "name": ""
-                }
-            }
-        },
         "ben": {
             "options": {
                 "question": {
-                    "name": ""
-                }
-            }
-        },
-        "bug": {
-            "options": {
-                "bug": {
                     "name": ""
                 }
             }
@@ -450,22 +280,8 @@
                 }
             }
         },
-        "lyrics": {
-            "options": {
-                "track": {
-                    "name": ""
-                }
-            }
-        },
         "staff": {
             "name": ""
-        },
-        "8ball": {
-            "options": {
-                "question": {
-                    "name": ""
-                }
-            }
         }
     }
 }
