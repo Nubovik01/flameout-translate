@@ -1,17 +1,10 @@
 {
     "command": {
-        "happyholidays": "",
         "robsnus": {
             "cooldown": ""
         },
-        "spotify": {
-            "artists": ""
-        },
         "leaders": {
             "leadersOfSafeCoins": ""
-        },
-        "profile": {
-            "auctions": ""
         }
     },
     "slashcommand": {
