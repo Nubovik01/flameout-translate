@@ -67,25 +67,18 @@
             }
         },
         "pets": {
-            "HohliDog1": "",
             "food": {
-                "FriedPork": "",
-                "DogFood": ""
+                "FriedPork": ""
             },
             "breeds": {
                 "hohli1": ""
             },
-            "health1": "",
             "gender1": "",
-            "games1": "",
-            "buyAt1": "",
-            "HohliDog2": ""
+            "buyAt1": ""
         },
         "gender": {
             "woman3": "",
-            "woman1": "",
-            "man3": "",
-            "woman2": ""
+            "man3": ""
         }
     },
     "command": {
@@ -826,9 +819,7 @@
             "fish": "Риб: `%s`",
             "badges": "Значок:",
             "footerProfile": "Профіль: %s",
-            "instruments": "",
             "resources": "",
-            "yes": "",
             "card": ""
         },
         "resourceprofile": {
@@ -932,15 +923,11 @@
             "answer": "Бен ответил: %s"
         },
         "pay": {
-            "payMoney": "",
             "noMoney2": "",
-            "payToMe": "",
             "minimum": ""
         },
         "paygift": {
-            "payToMe": "",
-            "noGift": "",
-            "noGift2": ""
+            "noGift": ""
         },
         "badwords": {
             "enable": ""
@@ -1008,9 +995,6 @@
                 "City": {
                     "name": "місто",
                     "description": "Вкажіть місто, в якому Ви хочете дізнатися погоду."
-                },
-                "city": {
-                    "name": ""
                 }
             }
         },
@@ -1155,9 +1139,6 @@
                 "bug": {
                     "name": "питання",
                     "description": "Яке питання ви хочете запитати у кулі?"
-                },
-                "question": {
-                    "description": ""
                 }
             }
         }
