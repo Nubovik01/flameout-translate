@@ -1,15 +1,7 @@
 {
     "command": {
-        "robsnus": {
-            "cooldown": ""
-        },
         "leaders": {
             "leadersOfSafeCoins": ""
-        }
-    },
-    "slashcommand": {
-        "choose": {
-            "name": ""
         }
     }
 }
