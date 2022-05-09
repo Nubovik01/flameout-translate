@@ -1,107 +1,66 @@
 {
     "general": {
-        "Fun": "",
         "Shop": "",
-        "executor": "",
         "version": "",
-        "Wood": "",
         "tools": {
             "pickaxe": {
                 "wooden": ""
-            },
-            "axe": {
-                "stone": ""
             }
         },
         "pets": {
-            "nopePet": "",
-            "breed1": ""
+            "nopePet": ""
         },
         "gender": {
             "man2": ""
         }
     },
     "command": {
-        "translate": "",
         "embeds": {
             "rights": {
-                "botNotHaveRightsToManageServer": "",
-                "botNotHaveRightsToBan": ""
+                "botNotHaveRightsToManageServer": ""
             }
         },
         "nomanageserverrights": "",
-        "bughuntersOnline1": "",
         "happyholidays": "",
-        "cancel2": "",
         "Cache4": "",
-        "inDB8": "",
         "vote": {
             "link": ""
         },
         "8ball": {
             "answers": {
-                "goodprospects": "",
                 "undoubtedly": ""
             }
-        },
-        "say": {
-            "notext": ""
         },
         "shop": {
             "upgradingaxe": {
                 "nomoneyforupgrade": ""
             }
         },
-        "allresources": {
-            "leaf": ""
-        },
         "categorystats": {
             "stats": ""
         },
         "vimeworldonline": {
-            "moderators": {
-                "onlinemoderatorsonserver": ""
-            },
             "streams": {
                 "streamsonserver": ""
             }
         },
-        "photofilter": {
-            "userdonthaveavatar": ""
-        },
         "redguyinfo": {
             "userprofile": ""
         },
-        "redguystats": {
-            "allwins": ""
-        },
         "robsnus": {
-            "cooldown": "",
-            "uspeshno": ""
+            "cooldown": ""
         },
         "roulette": {
             "lost": ""
         },
         "serverinfo": {
-            "verificationLevels": {
-                "high": ""
-            },
             "afkchannel": ""
-        },
-        "perms": {
-            "nouser": ""
         },
         "ban": {
             "userbanned": ""
         },
-        "singing": {
-            "usersinging": ""
-        },
         "setslowmode": {
             "BotNotHaveRightsToManageChannels": ""
-        },
-        "kick": {
-            "noreason": ""
         },
         "bank": {
             "deposit": {
@@ -109,149 +68,83 @@
             }
         },
         "card": {
-            "changecardnumber": "",
             "buycardtext": ""
-        },
-        "bankhack": {
-            "maxcoinsinbank": ""
         },
         "fish": {
             "cooldown": ""
-        },
-        "woodsell": {
-            "userdonthavewood": ""
         },
         "spotify": {
             "artists": ""
         },
         "botinfo": {
-            "command": "",
             "stats": ""
         },
         "animals": {
-            "randombunny": "",
             "randonkoala": ""
-        },
-        "paybitcoin": {
-            "nobitcoins": ""
         },
         "paygift": {
             "noNumberGift": ""
-        },
-        "pay": {
-            "noMoney2": ""
         },
         "bug": {
             "noargument": ""
         },
         "checkip": {
-            "continent": "",
             "currency": ""
-        },
-        "clear": {
-            "botdoesntrightspermissionstoclear": ""
         },
         "cube": {
             "maxstavka": ""
-        },
-        "dance": {
-            "userdancing": ""
         },
         "cointree": {
             "zarabotok": ""
         },
         "leaders": {
-            "leadersofleaf": "",
             "leadersOfSafeCoins": ""
-        },
-        "badwords": {
-            "enable": ""
         },
         "gift": {
             "giveresource": ""
         },
-        "mgift": {
-            "havegifts": ""
-        },
         "mine": {
             "redstone": ""
         },
-        "minecraftplayer": {
-            "nonickname": ""
-        },
         "minecraftserver": {
             "infoofserver": ""
-        },
-        "hug": {
-            "nomention": ""
         },
         "language": {
             "nolanguage": ""
         },
         "hypixelstats": {
-            "achievementpoints": "",
             "gamelanguage": "",
-            "achievements": "",
             "last_login": ""
-        },
-        "help": {
-            "support": ""
         },
         "pressf": {
             "nouser": ""
         },
         "profile": {
-            "golosovalshik": "",
             "auctions": "",
-            "axe": "",
             "resources": ""
         },
         "resourceprofile": {
-            "coal": "",
             "emerald": ""
         },
         "rankcard": {
-            "bgsinfo": {
-                "default1": ""
-            },
             "exp": ""
         },
         "minesell": {
-            "selliron": "",
             "sellnetherite": ""
-        },
-        "mopenbox": {
-            "noResources": ""
         },
         "msnuseat": {
             "nedostatochnoSnusa": ""
-        },
-        "staff": {
-            "nubovik": ""
         },
         "ben": {
             "listening": ""
         }
     },
     "slashcommand": {
-        "bunny": {
-            "name": ""
-        },
         "panda": {
-            "name": ""
-        },
-        "checkip": {
             "name": ""
         },
         "choose": {
             "name": ""
-        },
-        "hit": {
-            "options": {
-                "user": {
-                    "name": ""
-                }
-            }
         },
         "kiss": {
             "options": {
@@ -260,18 +153,8 @@
                 }
             }
         },
-        "version": {
-            "name": ""
-        },
         "vote": {
             "name": ""
-        },
-        "ben": {
-            "options": {
-                "question": {
-                    "name": ""
-                }
-            }
         },
         "spotify": {
             "options": {
@@ -279,9 +162,6 @@
                     "name": ""
                 }
             }
-        },
-        "staff": {
-            "name": ""
         }
     }
 }

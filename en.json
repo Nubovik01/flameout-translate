@@ -956,9 +956,6 @@
             "listening": "Бен слушает ваш вопрос...",
             "answer": "Бен ответил: %s"
         },
-        "pay": {
-            "noUser": ""
-        },
         "paygift": {
             "noGift": ""
         }

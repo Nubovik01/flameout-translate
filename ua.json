@@ -67,13 +67,7 @@
             }
         },
         "pets": {
-            "breeds": {
-                "hohli1": ""
-            },
             "buyAt1": ""
-        },
-        "gender": {
-            "man3": ""
         }
     },
     "command": {
@@ -813,8 +807,7 @@
             "wood": "Дерево: `%s`",
             "fish": "Риб: `%s`",
             "badges": "Значок:",
-            "footerProfile": "Профіль: %s",
-            "card": ""
+            "footerProfile": "Профіль: %s"
         },
         "resourceprofile": {
             "resources": "Ресурс",
@@ -915,9 +908,6 @@
             "ugh1": "ugh",
             "listening": "Бен слушает ваш вопрос...",
             "answer": "Бен ответил: %s"
-        },
-        "pay": {
-            "minimum": ""
         },
         "badwords": {
             "enable": ""
