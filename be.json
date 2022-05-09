@@ -1,84 +1,43 @@
 {
     "general": {
-        "version": "",
         "pets": {
             "nopePet": ""
         }
     },
     "command": {
-        "embeds": {
-            "rights": {
-                "botNotHaveRightsToManageServer": ""
-            }
-        },
         "happyholidays": "",
-        "vote": {
-            "link": ""
-        },
         "shop": {
             "upgradingaxe": {
                 "nomoneyforupgrade": ""
             }
         },
-        "vimeworldonline": {
-            "streams": {
-                "streamsonserver": ""
-            }
-        },
         "robsnus": {
             "cooldown": ""
-        },
-        "serverinfo": {
-            "afkchannel": ""
         },
         "setslowmode": {
             "BotNotHaveRightsToManageChannels": ""
         },
-        "card": {
-            "buycardtext": ""
-        },
         "spotify": {
             "artists": ""
-        },
-        "animals": {
-            "randonkoala": ""
         },
         "bug": {
             "noargument": ""
         },
-        "cube": {
-            "maxstavka": ""
-        },
         "leaders": {
             "leadersOfSafeCoins": ""
-        },
-        "mine": {
-            "redstone": ""
         },
         "language": {
             "nolanguage": ""
         },
-        "hypixelstats": {
-            "last_login": ""
-        },
         "profile": {
             "auctions": ""
         },
-        "resourceprofile": {
-            "emerald": ""
-        },
         "minesell": {
             "sellnetherite": ""
-        },
-        "ben": {
-            "listening": ""
         }
     },
     "slashcommand": {
         "choose": {
-            "name": ""
-        },
-        "vote": {
             "name": ""
         }
     }
