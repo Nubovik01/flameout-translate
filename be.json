@@ -1,39 +1,17 @@
 {
-    "general": {
-        "pets": {
-            "nopePet": ""
-        }
-    },
     "command": {
         "happyholidays": "",
-        "shop": {
-            "upgradingaxe": {
-                "nomoneyforupgrade": ""
-            }
-        },
         "robsnus": {
             "cooldown": ""
-        },
-        "setslowmode": {
-            "BotNotHaveRightsToManageChannels": ""
         },
         "spotify": {
             "artists": ""
         },
-        "bug": {
-            "noargument": ""
-        },
         "leaders": {
             "leadersOfSafeCoins": ""
         },
-        "language": {
-            "nolanguage": ""
-        },
         "profile": {
             "auctions": ""
-        },
-        "minesell": {
-            "sellnetherite": ""
         }
     },
     "slashcommand": {
