@@ -955,9 +955,6 @@
             "ugh1": "ugh",
             "listening": "Бен слушает ваш вопрос...",
             "answer": "Бен ответил: %s"
-        },
-        "paygift": {
-            "noGift": ""
         }
     },
     "slashcommand": {

@@ -65,9 +65,6 @@
                 "netherite": "незеритовая",
                 "titanium": "титановий"
             }
-        },
-        "pets": {
-            "buyAt1": ""
         }
     },
     "command": {
@@ -908,9 +905,6 @@
             "ugh1": "ugh",
             "listening": "Бен слушает ваш вопрос...",
             "answer": "Бен ответил: %s"
-        },
-        "badwords": {
-            "enable": ""
         }
     },
     "slashcommand": {
