@@ -959,13 +959,11 @@
         },
         "paygift": {
             "payGift": "<@%s> transferred `%s` gifts %s",
-            "noGift": "you don't have gifts.",
-            "noNumberGift": ""
+            "noGift": "you don't have gifts."
         },
         "pay": {
             "payMoney": "<@%s> transferred `%s` coins %s",
-            "noMoney": "you don't have coins.",
-            "noNumberMoney": ""
+            "noMoney": "you don't have coins."
         },
         "badwords": {
             "disable": "Anti-bad words filter off.",
