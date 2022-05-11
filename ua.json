@@ -83,23 +83,16 @@
                 "PlushIlya": "Плюшевий Ілля"
             },
             "likeFood1": "Улюблена їжа",
-            "breed1": "",
             "breeds": {
-                "hohli1": "",
-                "hohli2": ""
+                "hohli1": ""
             },
             "food": {
                 "DogFood": "",
-                "FriedSalmon": "",
                 "FriedPork": ""
             },
-            "nopePet": "",
             "health1": "",
-            "HohliDog1": "",
             "gender1": "",
-            "buyAt1": "",
-            "features1": "",
-            "HohliDog2": ""
+            "features1": ""
         },
         "version2": ""
     },
@@ -735,18 +728,15 @@
         },
         "hit": {
             "nomention": "ви забули згадати того, кого хочете вдарити.",
-            "userhit": "%s вдаривши %s",
-            "noHitYourself": ""
+            "userhit": "%s вдаривши %s"
         },
         "hug": {
             "nomention": "ви забули згадати того, кого хочете обійняти.",
-            "userhug": "%s обіймає %s",
-            "noHugYourself": ""
+            "userhug": "%s обіймає %s"
         },
         "kiss": {
             "nomention": "ви забули згадати того, кого хочете поцілувати.",
-            "userkiss": "%s цілує %s",
-            "noKissYourself": ""
+            "userkiss": "%s цілує %s"
         },
         "hungry": {
             "userhungry": "%s голодний"
@@ -847,11 +837,8 @@
             "no": "Ні",
             "missing": "Відсутні",
             "yes": "Так",
-            "safe": "",
             "instruments": "",
-            "resources": "",
             "badges2": "",
-            "main": "",
             "card": ""
         },
         "resourceprofile": {
@@ -956,28 +943,20 @@
         },
         "pay": {
             "payMoney": "<@%s> перевів `%s` монет %s",
-            "noUser": "",
             "noNumberMoney": "",
-            "noMoney2": "",
             "commission": "",
-            "payToMe": "",
-            "noMoney": "",
-            "minimum": ""
+            "noMoney": ""
         },
         "avatar": {
             "title": "Аватарка користувача %s"
         },
         "paygift": {
             "payGift": "<@%s> дав `%s` подарунків %s",
-            "noNumberGift": "",
             "noUser": "",
-            "payToMe": "",
-            "noGift": "",
-            "noGift2": ""
+            "noGift": ""
         },
         "badwords": {
-            "disable": "",
-            "enable": ""
+            "disable": ""
         }
     },
     "slashcommand": {
@@ -1040,8 +1019,7 @@
             "description": "Дізнатися погоду у своєму місті",
             "options": {
                 "city": {
-                    "name": "Місто",
-                    "description": ""
+                    "name": "Місто"
                 }
             }
         },
@@ -1184,8 +1162,7 @@
             "description": "Задати питання кулі",
             "options": {
                 "question": {
-                    "name": "Питання",
-                    "description": ""
+                    "name": "Питання"
                 }
             }
         }
