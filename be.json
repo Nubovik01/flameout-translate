@@ -1,159 +1,89 @@
 {
     "hello": "Прывітанне! Гэта першая тэставая фраза на беларускай мове.",
     "command": {
-        "botinfo": {
-            "botname": ""
-        },
         "8ball": {
             "answers": {
-                "myanswerisno": "",
-                "concentrateandaskagain": ""
+                "myanswerisno": ""
             }
         },
         "rob": {
             "neudachno": ""
-        },
-        "serverinfo": {
-            "description": ""
         },
         "bank": {
             "deposit": {
                 "usernothavecoins": ""
             }
         },
-        "card": {
-            "successremovecontract": ""
-        },
         "mine": {
             "redstone": ""
-        },
-        "hit": {
-            "noHitYourself": ""
         },
         "resourceprofile": {
             "copper": ""
         },
-        "paygift": {
-            "noNumberGift": ""
-        },
         "minesell": {
             "selliron": ""
         },
-        "mopenbox": {
-            "openBoxesText": ""
-        },
         "hypixelstats": {
-            "rank": "",
-            "mcversion": ""
+            "rank": ""
         },
         "cube": {
             "botDice": ""
-        },
-        "checkip": {
-            "currency": ""
         },
         "cointree": {
             "newmoney": ""
         },
         "profile": {
-            "coins": "",
             "auctions": ""
-        },
-        "leaders": {
-            "leadersofboxes": ""
         },
         "minecraftserver": {
             "noip": ""
         },
-        "embeds": {
-            "rights": {
-                "thisIsNotVoiceChannel": ""
-            }
-        },
         "shop": {
             "sell": ""
-        },
-        "allresources": {
-            "wood": ""
         },
         "rankcard": {
             "bgsinfo": {
                 "stones": ""
             }
         },
-        "robsnus": {
-            "victimmessage": ""
-        },
         "vimeworldonline": {
             "streams": {
                 "viewstream": ""
             }
         },
-        "avatar": {
-            "title": ""
-        },
         "roulette": {
             "chet": ""
-        },
-        "gifttobox": {
-            "min15gifts": ""
         },
         "uptime": {
             "botuptime": ""
         },
-        "redguyinfo": {
-            "nickname": ""
-        },
         "school": {
             "school": ""
         },
-        "cooldown": "",
         "ban": {
             "nomention": ""
         },
-        "eat": {
-            "usereating": ""
-        },
         "inDB2": "",
-        "kiss": {
-            "noKissYourself": ""
-        },
         "dance": {
             "userdancing": ""
         }
     },
     "general": {
-        "clickHere": "",
         "pets": {
             "games": {
                 "PlushIlya": ""
-            },
-            "nopePet": ""
+            }
         },
         "SiteOfBot": "",
-        "Wood": "",
         "GitHub1": ""
     },
     "slashcommand": {
-        "bug": {
-            "name": ""
-        },
         "hit": {
             "name": ""
-        },
-        "spotify": {
-            "description": ""
         },
         "checkip": {
             "options": {
                 "ip": {
-                    "name": ""
-                }
-            }
-        },
-        "ben": {
-            "options": {
-                "question": {
                     "name": ""
                 }
             }
