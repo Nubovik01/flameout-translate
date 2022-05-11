@@ -2,270 +2,151 @@
     "hello": "Прывітанне! Гэта першая тэставая фраза на беларускай мове.",
     "command": {
         "botinfo": {
-            "channels": "",
             "botname": ""
         },
-        "Cache3": "",
         "8ball": {
             "answers": {
                 "myanswerisno": "",
-                "mostlikely": "",
                 "concentrateandaskagain": ""
             }
-        },
-        "redguystats": {
-            "allkills": ""
         },
         "rob": {
             "neudachno": ""
         },
         "serverinfo": {
-            "members": "",
             "description": ""
-        },
-        "short": {
-            "error2": ""
         },
         "bank": {
             "deposit": {
                 "usernothavecoins": ""
-            },
-            "info": ""
+            }
         },
         "card": {
             "successremovecontract": ""
         },
-        "bankhack": {
-            "successrobbankindm": ""
-        },
         "mine": {
-            "redstone": "",
-            "giveexp": ""
+            "redstone": ""
         },
         "hit": {
             "noHitYourself": ""
         },
-        "pay": {
-            "noUser": ""
-        },
         "resourceprofile": {
-            "copper": "",
-            "stone": ""
+            "copper": ""
         },
         "paygift": {
             "noNumberGift": ""
         },
         "minesell": {
-            "allcoins": "",
             "selliron": ""
         },
-        "ben": {
-            "yes1": ""
-        },
         "mopenbox": {
-            "openBoxesText": "",
-            "expfrombox": ""
+            "openBoxesText": ""
         },
         "hypixelstats": {
             "rank": "",
-            "xp": "",
-            "mcversion": "",
-            "online": ""
+            "mcversion": ""
         },
         "cube": {
             "botDice": ""
         },
-        "animals": {
-            "randomfox": ""
-        },
         "checkip": {
-            "currency": "",
-            "ip": ""
+            "currency": ""
         },
         "cointree": {
             "newmoney": ""
         },
         "profile": {
-            "wood": "",
             "coins": "",
-            "instruments": "",
-            "auctions": "",
-            "badges": ""
+            "auctions": ""
         },
         "leaders": {
-            "leadersofboxes": "",
-            "leadersofsnus": ""
+            "leadersofboxes": ""
         },
         "minecraftserver": {
             "noip": ""
         },
         "embeds": {
             "rights": {
-                "dontKickYourself": "",
                 "thisIsNotVoiceChannel": ""
             }
-        },
-        "kick": {
-            "userkick": ""
         },
         "shop": {
             "sell": ""
         },
-        "paysnus": {
-            "nouser": ""
-        },
         "allresources": {
             "wood": ""
-        },
-        "gift": {
-            "useropengift": ""
         },
         "rankcard": {
             "bgsinfo": {
                 "stones": ""
-            },
-            "exp": ""
+            }
         },
         "robsnus": {
-            "victimmessage": "",
-            "uspeshno": ""
+            "victimmessage": ""
         },
         "vimeworldonline": {
             "streams": {
                 "viewstream": ""
             }
         },
-        "photofilter": {
-            "creating": ""
-        },
         "avatar": {
             "title": ""
-        },
-        "wood": {
-            "cooldown": ""
         },
         "roulette": {
             "chet": ""
         },
-        "pension": {
-            "pension": ""
-        },
         "gifttobox": {
             "min15gifts": ""
-        },
-        "msnuseat": {
-            "noArgs": ""
         },
         "uptime": {
             "botuptime": ""
         },
-        "setslowmode": {
-            "BotNotHaveRightsToManageChannels": ""
-        },
         "redguyinfo": {
             "nickname": ""
-        },
-        "bitcoin": {
-            "bitcoinbuy": ""
         },
         "school": {
             "school": ""
         },
-        "perms": {
-            "userperms": ""
-        },
         "cooldown": "",
-        "clear": {
-            "menshe100": ""
-        },
         "ban": {
             "nomention": ""
-        },
-        "minecraftplayer": {
-            "title": ""
         },
         "eat": {
             "usereating": ""
         },
-        "janitor": {
-            "nomusor": ""
-        },
         "inDB2": "",
-        "hiddeninleaders": {
-            "enable": ""
-        },
         "kiss": {
             "noKissYourself": ""
         },
-        "singing": {
-            "usersinging": ""
-        },
         "dance": {
             "userdancing": ""
-        },
-        "bughuntersOnline1": ""
+        }
     },
     "general": {
         "clickHere": "",
-        "tools": {
-            "pickaxe": {
-                "titanium": ""
-            }
-        },
         "pets": {
             "games": {
                 "PlushIlya": ""
             },
-            "food": {
-                "DogFood": ""
-            },
             "nopePet": ""
         },
-        "gender": {
-            "woman4": ""
-        },
         "SiteOfBot": "",
-        "bitcoin": "",
         "Wood": "",
-        "Snus": "",
         "GitHub1": ""
     },
     "slashcommand": {
-        "uptime": {
-            "description": ""
-        },
         "bug": {
             "name": ""
         },
-        "categorystats": {
-            "description": ""
-        },
         "hit": {
-            "name": ""
-        },
-        "lizard": {
             "name": ""
         },
         "spotify": {
             "description": ""
         },
-        "hug": {
-            "options": {
-                "user": {
-                    "description": ""
-                }
-            }
-        },
         "checkip": {
             "options": {
                 "ip": {
-                    "name": ""
-                }
-            }
-        },
-        "weather": {
-            "options": {
-                "city": {
                     "name": ""
                 }
             }
@@ -276,9 +157,6 @@
                     "name": ""
                 }
             }
-        },
-        "whennewyear": {
-            "description": ""
         }
     }
 }
