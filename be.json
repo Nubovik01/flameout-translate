@@ -1,92 +1,45 @@
 {
     "hello": "Прывітанне! Гэта першая тэставая фраза на беларускай мове.",
     "command": {
-        "8ball": {
-            "answers": {
-                "myanswerisno": ""
-            }
-        },
         "rob": {
             "neudachno": ""
-        },
-        "bank": {
-            "deposit": {
-                "usernothavecoins": ""
-            }
         },
         "mine": {
             "redstone": ""
         },
-        "resourceprofile": {
-            "copper": ""
-        },
         "minesell": {
             "selliron": ""
-        },
-        "hypixelstats": {
-            "rank": ""
         },
         "cube": {
             "botDice": ""
         },
-        "cointree": {
-            "newmoney": ""
-        },
         "profile": {
             "auctions": ""
         },
-        "minecraftserver": {
-            "noip": ""
-        },
         "shop": {
             "sell": ""
-        },
-        "rankcard": {
-            "bgsinfo": {
-                "stones": ""
-            }
         },
         "vimeworldonline": {
             "streams": {
                 "viewstream": ""
             }
         },
-        "roulette": {
-            "chet": ""
-        },
         "uptime": {
             "botuptime": ""
-        },
-        "school": {
-            "school": ""
         },
         "ban": {
             "nomention": ""
         },
-        "inDB2": "",
         "dance": {
             "userdancing": ""
         }
     },
     "general": {
-        "pets": {
-            "games": {
-                "PlushIlya": ""
-            }
-        },
-        "SiteOfBot": "",
-        "GitHub1": ""
+        "SiteOfBot": ""
     },
     "slashcommand": {
         "hit": {
             "name": ""
-        },
-        "checkip": {
-            "options": {
-                "ip": {
-                    "name": ""
-                }
-            }
         }
     }
 }
