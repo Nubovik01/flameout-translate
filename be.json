@@ -1,41 +1,21 @@
 {
     "hello": "Прывітанне! Гэта першая тэставая фраза на беларускай мове.",
     "command": {
-        "rob": {
-            "neudachno": ""
-        },
         "mine": {
             "redstone": ""
-        },
-        "minesell": {
-            "selliron": ""
         },
         "cube": {
             "botDice": ""
         },
-        "profile": {
-            "auctions": ""
-        },
         "shop": {
             "sell": ""
-        },
-        "vimeworldonline": {
-            "streams": {
-                "viewstream": ""
-            }
         },
         "uptime": {
             "botuptime": ""
         },
-        "ban": {
-            "nomention": ""
-        },
         "dance": {
             "userdancing": ""
         }
-    },
-    "general": {
-        "SiteOfBot": ""
     },
     "slashcommand": {
         "hit": {
