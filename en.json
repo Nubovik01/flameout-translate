@@ -960,15 +960,12 @@
         "paygift": {
             "payGift": "<@%s> transferred `%s` gifts %s",
             "noGift": "you don't have gifts.",
-            "noUser": "",
             "noNumberGift": ""
         },
         "pay": {
             "payMoney": "<@%s> transferred `%s` coins %s",
             "noMoney": "you don't have coins.",
-            "payToMe": "",
-            "noNumberMoney": "",
-            "noMoney2": ""
+            "noNumberMoney": ""
         },
         "badwords": {
             "disable": "Anti-bad words filter off.",

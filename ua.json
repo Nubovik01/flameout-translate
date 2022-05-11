@@ -83,18 +83,12 @@
                 "PlushIlya": "Плюшевий Ілля"
             },
             "likeFood1": "Улюблена їжа",
-            "breeds": {
-                "hohli1": ""
-            },
             "food": {
-                "DogFood": "",
-                "FriedPork": ""
+                "DogFood": ""
             },
             "health1": "",
-            "gender1": "",
             "features1": ""
-        },
-        "version2": ""
+        }
     },
     "command": {
         "indev1": "(в розробці)",
@@ -837,9 +831,7 @@
             "no": "Ні",
             "missing": "Відсутні",
             "yes": "Так",
-            "instruments": "",
-            "badges2": "",
-            "card": ""
+            "badges2": ""
         },
         "resourceprofile": {
             "resources": "Ресурс",
@@ -943,20 +935,14 @@
         },
         "pay": {
             "payMoney": "<@%s> перевів `%s` монет %s",
-            "noNumberMoney": "",
-            "commission": "",
-            "noMoney": ""
+            "commission": ""
         },
         "avatar": {
             "title": "Аватарка користувача %s"
         },
         "paygift": {
             "payGift": "<@%s> дав `%s` подарунків %s",
-            "noUser": "",
             "noGift": ""
-        },
-        "badwords": {
-            "disable": ""
         }
     },
     "slashcommand": {
