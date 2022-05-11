@@ -1,20 +1,11 @@
 {
     "hello": "Прывітанне! Гэта першая тэставая фраза на беларускай мове.",
     "command": {
-        "mine": {
-            "redstone": ""
-        },
         "cube": {
             "botDice": ""
         },
-        "shop": {
-            "sell": ""
-        },
         "uptime": {
             "botuptime": ""
-        },
-        "dance": {
-            "userdancing": ""
         }
     },
     "slashcommand": {
