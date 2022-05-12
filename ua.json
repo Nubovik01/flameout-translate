@@ -655,7 +655,7 @@
             "nousers": "**Поки що нікого немає в топі.**",
             "leadersofexp": "Топ з досвіду",
             "leadersofcoins": "Топ по монетам",
-            "leadersofleaf": "Топ по листикам",
+            "leadersofleaf": "Топ по листочкам",
             "leadersofbitcoin": "Топ по біткоіни",
             "leadersofgift": "Топ по подарункам",
             "leadersofbank": "Топ по монетам в банку",
@@ -663,8 +663,8 @@
             "leadersofdonate": "Топ по донату",
             "leadersofboxes": "Топ по боксах",
             "leadersofsnus": "Топ по знесенню",
-            "leadersOfSafeCoins": "Топ по монетам в сейфе",
-            "leadersOfSafeLevel": "Топ по уровню сейфа",
+            "leadersOfSafeCoins": "Топ по монетах в сейфі",
+            "leadersOfSafeLevel": "Топ за рівнем сейфа",
             "leadersofsnake": "Топ за очками в змійці",
             "leadersofvotes": "Топ по голосуваннях",
             "languagesleaders": "Топ з мов використовують сервера"
@@ -787,8 +787,8 @@
             "rank_field": "Ранг",
             "other": "Інше",
             "first_login": "Перший вхід: <t:%s:R>",
-            "last_login": "Последний вход: <t:%s:R>",
-            "last_logout": "Последний выход: <t:%s:R>",
+            "last_login": "Останній вхід: <t:%s:R>",
+            "last_logout": "Останній вихід: <t:%s:R>",
             "games_played": "ігор зіграно: `%s`"
         },
         "invitebot": {
@@ -1152,7 +1152,7 @@
             }
         },
         "spotify": {
-            "name": "спотифай",
+            "name": "спотіфай",
             "description": "Дізнатися інформацію про трек (його виконавців, альбом, тривалість)",
             "options": {
                 "track": {
