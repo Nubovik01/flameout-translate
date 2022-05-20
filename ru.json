@@ -982,6 +982,12 @@
             "ugh1": "ugh",
             "listening": "Бен слушает ваш вопрос...",
             "answer": "Бен ответил: %s"
+        },
+        "slashcommand": {
+            "hungry": {
+                "name": "голоден",
+                "description": "Быть голодным"
+            }
         }
     },
     "slashcommand": {
