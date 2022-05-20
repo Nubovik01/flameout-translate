@@ -101,7 +101,9 @@
             "woman2": "женский",
             "woman3": "Женщина",
             "woman4": "женщина"
-        }
+        },
+        "hilsuMCserver": "Hilarious - Minecraft-сервер.",
+        "what": "Что?"
     },
     "command": {
         "indev1": "(в разработке)",
@@ -688,7 +690,9 @@
             "leadersOfSafeLevel": "Топ по уровню сейфа",
             "leadersofsnake": "Топ по очкам в Змейке",
             "leadersofvotes": "Топ по голосованиям",
-            "languagesleaders": "Топ по языкам использующих сервера"
+            "languagesleaders": "Топ по языкам использующих сервера",
+            "leadersOfCoinsOnHilarious": "Топ по червонцам на Hilarious",
+            "leadersOfGemsOnHilarious": "Топ по самоцветам на Hilarious"
         },
         "levelup": {
             "disable": "Сообщения о повышении уровня выключены.",
