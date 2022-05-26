@@ -674,7 +674,7 @@
         },
         "leaders": {
             "leaders": "Лидеры",
-            "notop": "Вы не указали по какому предмету Вы\nхотите получить список лидеров. Доступны:\n{{emoji}} `xp` | опыт\n{{emoji}} `boxes` | боксы\n{{emoji}} `leafs` | листики\n{{emoji}} `snake` | очки в змейке\n{{emoji}} `snus` | снюс\n{{emoji}} `votes` | голосования\n {{emoji}} `level` | Уровни\n {{emoji}} `coins` | Монеты\n {{emoji}} `bitcoin` | Биткоины\n {{emoji}} `gift` | Подарки\n {{emoji}} `bank` | Монеты в банке\n {{emoji}} `donaterubles` | Донаты\n{{emoji}} `safecoins` | Монеты в сейфе\n{{emoji}} `safelevel` | Уровень сейфа",
+            "notop": "Вы не указали по какому предмету Вы\nхотите получить список лидеров. Доступны:\n{{emoji}} `hilGems` | Самоцветы на Hilarious\n{{emoji}} `hilCoins` | Червонцы на Hilarious\n{{emoji}} `xp` - опыт\n{{emoji}} `boxes` - боксы\n{{emoji}} `leafs` - листики\n{{emoji}} `snake` - очки в змейке\n{{emoji}} `snus` - снюс\n{{emoji}} `votes` - голосования\n{{emoji}} `level` | Уровни\n{{emoji}} `coins` | Монеты\n{{emoji}} `bitcoin` | Биткоины\n{{emoji}} `gift` | Подарки\n{{emoji}} `bank` | Монеты в банке\n{{emoji}} `donaterubles` | Донаты\n{{emoji}} `safecoins` | Монеты в сейфе\n{{emoji}} `safelevel` | Уровень сейфа",
             "nousers": "**Пока что никого нету в топе.**",
             "leadersofexp": "Топ по опыту",
             "leadersofcoins": "Топ по монетам",
