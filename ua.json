@@ -651,7 +651,7 @@
         },
         "leaders": {
             "leaders": "Лідер",
-            "notop": "Ви не вказали з якого предмету ви\nхочете отримати топ `10`. Доступний:\n- `xp` | досвід\n- `boxes | бокси\n- `leafs | листочки\n- `snake` | окуляри в змійці\n- `snus`| Снюс\n- `votes` | голосування\n- `level` | рівні\n- `coins` | монети\n- `bitcoin` | біткоіни\n- `gift` | подарунки\n- `bank` | Банк\n- `donaterubles` | донати\n- `safecoins` | Монеты в сейфе\n- `safelevel` | Уровень сейфа",
+            "notop": "",
             "nousers": "**Поки що нікого немає в топі.**",
             "leadersofexp": "Топ з досвіду",
             "leadersofcoins": "Топ по монетам",
