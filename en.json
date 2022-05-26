@@ -654,7 +654,7 @@
         },
         "leaders": {
             "leaders": "Leaders",
-            "notop": "You have not specified what subject you\nwant to get the top `10`. Available:\n- `xp` | Experience\n - `boxes` | Boxes\n - `leafs` | Leaf\n - `snake` | Points in the \"Snake\" game\n - `snus` | Snus\n - `votes` | Bot votes\n - `level` | Level\n - `coins` | Coins\n - `bitcoin` | Bitcoin\n - `gift` | Gifts\n - `bank` | Money in bank\n - `donaterubles` | Donate rubles\n- `safecoins` | Монеты в сейфе\n- `safelevel` | Уровень сейфа",
+            "notop": "",
             "nousers": "**At the moment, the top is empty.**",
             "leadersofexp": "Leaders of experience",
             "leadersofcoins": "Leaders of coins",
