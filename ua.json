@@ -651,7 +651,6 @@
         },
         "leaders": {
             "leaders": "Лідер",
-            "notop": "",
             "nousers": "**Поки що нікого немає в топі.**",
             "leadersofexp": "Топ з досвіду",
             "leadersofcoins": "Топ по монетам",

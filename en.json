@@ -654,7 +654,6 @@
         },
         "leaders": {
             "leaders": "Leaders",
-            "notop": "",
             "nousers": "**At the moment, the top is empty.**",
             "leadersofexp": "Leaders of experience",
             "leadersofcoins": "Leaders of coins",
