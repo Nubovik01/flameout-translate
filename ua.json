@@ -101,7 +101,9 @@
             "HohliDog2": "Хохлі-пес",
             "buyAt1": "Куплений"
         },
-        "version2": "Версія бота"
+        "version2": "Версія бота",
+        "hilsuMCserver": "Hilarious – Minecraft-сервер.",
+        "what": "Що?"
     },
     "command": {
         "indev1": "(в розробці)",
@@ -666,7 +668,10 @@
             "leadersOfSafeLevel": "Топ за рівнем сейфа",
             "leadersofsnake": "Топ за очками в змійці",
             "leadersofvotes": "Топ по голосуваннях",
-            "languagesleaders": "Топ з мов використовують сервера"
+            "languagesleaders": "Топ з мов використовують сервера",
+            "leadersOfCoinsOnHilarious": "Топ по червонцях на Hilarious",
+            "leadersOfGemsOnHilarious": "Топ за самоцвітами на Hilarious",
+            "notop": "Ви не вказали з якого предмету Ви\nбажаєте отримати список лідерів. Доступні:\n{{emoji}} `hilGems` | Самоцвіти на Hilarious\n{{emoji}} `hilCoins` | Червонці на Hilarious\n{{emoji}} `xp` - досвід\n{{emoji}} `boxes` - бокси\n{{emoji}} `leafs` - листочки\n{{emoji}} `snake` - окуляри у змійці\n{{emoji}} `snus` - снюс\n{{emoji}} `votes` - голосування\n{{emoji}} `Level` | Рівні\n{{emoji}} `coins` | Монети\n{{emoji}} `bitcoin` | Біткоїни\n{{emoji}} `gift` | Подарунки\n{{emoji}} `bank` | Монети у банку\n{{emoji}} `donaterubles` | Донати\n{{emoji}} `safecoins` | Монети у сейфі\n{{emoji}} `safelevel` | Рівень сейфа"
         },
         "levelup": {
             "disable": "Повідомлення про підвищення рівня вимкнені.",
@@ -977,6 +982,12 @@
         "badwords": {
             "enable": "Анти-мат увімкнено. Тепер погані слова віддалятимуться.",
             "disable": "анти-мат вимкнено"
+        },
+        "slashcommand": {
+            "hungry": {
+                "name": "голодний",
+                "description": "Бути голодним"
+            }
         }
     },
     "slashcommand": {
