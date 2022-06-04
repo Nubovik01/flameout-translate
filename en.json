@@ -101,7 +101,9 @@
             "woman3": "Woman",
             "woman4": "woman"
         },
-        "version2": "bot version"
+        "version2": "bot version",
+        "hilsuMCserver": "Hilarious - Minecraft server.",
+        "what": "What?"
     },
     "command": {
         "indev1": "(in developing)",
@@ -669,7 +671,10 @@
             "leadersOfSafeLevel": "Топ по уровню сейфа",
             "leadersofsnake": "Leaders of snake",
             "leadersofvotes": "Leaders of votes",
-            "languagesleaders": "Top by languages using servers"
+            "languagesleaders": "Top by languages using servers",
+            "leadersOfGemsOnHilarious": "Top Gems on Hilarious",
+            "leadersOfCoinsOnHilarious": "Top in gold coins on Hilarious",
+            "notop": "You did not indicate which subject you are\nwant to get the leaderboard. Available:\n{{emoji}} `hilGems` | Gems on Hilarious\n{{emoji}} `hilCoins` | Chervonets on Hilarious\n{{emoji}} `xp` - experience\n{{emoji}} `boxes` - boxes\n{{emoji}} `leafs` - leaves\n{{emoji}} `snake` - glasses in a snake\n{{emoji}} `snus` - snus\n{{emoji}} `votes` - votes\n{{emoji}} `level` | Levels\n{{emoji}} `coins` | coins\n{{emoji}} `bitcoin` | Bitcoins\n{{emoji}} `gift` | Present\n{{emoji}} `bank` | Coins in the bank\n{{emoji}} `donaterubles` | Donations\n{{emoji}} `safecoins` | Coins in the safe\n{{emoji}} `safelevel` | Level from safe"
         },
         "levelup": {
             "disable": "Level up messages are disabled.",
@@ -742,7 +747,7 @@
         },
         "hug": {
             "nomention": "you forgot to mention the person you want to hug.",
-            "noHugYourself": "don't hug yourself",
+            "noHugYourself": "try to hug another user, you won't succeed, and there won't be any emotions...",
             "userhug": "%s hug %s"
         },
         "kiss": {
@@ -958,15 +963,31 @@
         },
         "paygift": {
             "payGift": "<@%s> transferred `%s` gifts %s",
-            "noGift": "you don't have gifts."
+            "noGift": "you don't have gifts.",
+            "noGift2": "You do not have the specified number of gifts.",
+            "payToMe": "Why give gifts to yourself?",
+            "noUser": "you didn't mention who you want to give the gift to",
+            "noNumberGift": "you did not indicate how many gifts you want to give"
         },
         "pay": {
             "payMoney": "<@%s> transferred `%s` coins %s",
-            "noMoney": "you don't have coins."
+            "noMoney": "you don't have coins.",
+            "payToMe": "why transfer coins to yourself?\n|| dupe = f!ban||",
+            "noMoney2": "You do not have the specified number of coins.",
+            "noNumberMoney": "you did not specify how many coins you want to transfer",
+            "noUser": "you did not mention the person to whom you want to transfer the coins.",
+            "commission": "Fee for transferring `%c` coins (`%c%`)",
+            "minimum": "you can transfer at least `%s` coins"
         },
         "badwords": {
             "disable": "Anti-bad words filter off.",
             "enable": "The anti-bad words filter is enabled. Now bad words will be deleted."
+        },
+        "slashcommand": {
+            "hungry": {
+                "description": "Be hungry",
+                "name": "hungry"
+            }
         }
     },
     "slashcommand": {
