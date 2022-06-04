@@ -972,7 +972,7 @@
         "pay": {
             "payMoney": "<@%s> transferred `%s` coins %s",
             "noMoney": "you don't have coins.",
-            "payToMe": "why transfer coins to yourself?\n|| dupe = f!ban||",
+            "payToMe": "why transfer coins to yourself?",
             "noMoney2": "You do not have the specified number of coins.",
             "noNumberMoney": "you did not specify how many coins you want to transfer",
             "noUser": "you did not mention the person to whom you want to transfer the coins.",
