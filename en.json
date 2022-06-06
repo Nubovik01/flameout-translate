@@ -103,7 +103,9 @@
         },
         "version2": "bot version",
         "hilsuMCserver": "Hilarious - Minecraft server.",
-        "what": "What?"
+        "what": "What?",
+        "all": "total: %s",
+        "shardInfo": "Shard info #%s"
     },
     "command": {
         "indev1": "(in developing)",
@@ -323,7 +325,10 @@
             "nomention": "mention the person you want to rob.",
             "robbing": "you are looking for unlocked doors in the house, it will take 5 minutes.",
             "uspeshno": "You have successfully robbed <@%s> and obtained `%s` coins.",
-            "neudachno": "you found open doors to the police... Try it in `30` minutes."
+            "neudachno": "you found open doors to the police... Try it in `30` minutes.",
+            "polucheno_monet": "Coins received",
+            "nomoney": "<@%s>, you didn't find any jewelry in <@%s>'s house",
+            "15lvlMentionUser": "you can't hack this player because his level is less than 15"
         },
         "robsnus": {
             "cooldown": "cooldown! `30` minutes.",
@@ -734,7 +739,9 @@
             "noport": "you did not specify the server port after the ip-address separated by a space",
             "infoofserver": "Info of server",
             "online": "Online: `%s` / `%s`",
-            "version": "Version: `%s`"
+            "version": "Version: `%s`",
+            "maxonline": "Max. online",
+            "core": "Nucleus"
         },
         "gifttobox": {
             "min15gifts": "Not enough gifts to exchange.",
