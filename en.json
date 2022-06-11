@@ -585,7 +585,7 @@
         },
         "pension": {
             "pension": "Pension",
-            "stop": "you can receive a pension once a month, come for a new one 01.%s.2021 ⏰",
+            "stop": "you can receive a pension once a month, come for a new one 01.%s.2022 ⏰",
             "youReceived": "💳 You received: `%s` coins."
         },
         "bug": {
