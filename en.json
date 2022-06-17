@@ -190,7 +190,6 @@
         },
         "8ball": {
             "noask": "you didn't ask the ball a question.",
-            "botanswer": "you asked the ball a question.\n🎱 The ball's response: **%s**",
             "answers": {
                 "itseemstomeyes": "It seems to me — «yes»",
                 "theprospectsarenotverygood": "The prospects are not very good",
