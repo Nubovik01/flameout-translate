@@ -441,7 +441,6 @@
         },
         "8ball": {
             "noask": "вы не задалі пытанне шару.",
-            "botanswer": "вы задалі пытанне шару.\n🎱 Адказ шара: **%s**",
             "answers": {
                 "itseemstomeyes": "Мне здаецца - \"так\"",
                 "theprospectsarenotverygood": "Перспектывы не вельмі добрыя",
