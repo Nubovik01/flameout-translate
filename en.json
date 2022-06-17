@@ -213,7 +213,9 @@
                 "donotevendoubt": "Don't even doubt it",
                 "unambiguously": "Uniquely",
                 "yes": "Yes"
-            }
+            },
+            "answer": "ball response",
+            "wait": "Wait, the ball is thinking..."
         },
         "say": {
             "notext": "you did not write what you want to write on behalf of the bot.",
