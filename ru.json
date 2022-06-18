@@ -221,7 +221,6 @@
             "nopingeveryone": "я запрещаю пинговать всех :<"
         },
         "amonguscode": {
-            "region": "Регион: `%s`",
             "code": "Код: `%s`"
         },
         "shop": {
