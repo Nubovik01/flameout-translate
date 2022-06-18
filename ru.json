@@ -220,9 +220,6 @@
             "notext": "ты не написал, что хочешь написать от имени бота.",
             "nopingeveryone": "я запрещаю пинговать всех :<"
         },
-        "amonguscode": {
-            "code": "Код: `%s`"
-        },
         "shop": {
             "upgradingpickaxe": {
                 "upgradepickaxe": "Улучшить кирку",
