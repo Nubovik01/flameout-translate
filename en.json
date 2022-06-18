@@ -220,9 +220,6 @@
             "notext": "you did not write what you want to write on behalf of the bot.",
             "nopingeveryone": "you can't ping everyone :<"
         },
-        "amonguscode": {
-            "code": "Code: `%s`"
-        },
         "shop": {
             "upgradingpickaxe": {
                 "upgradepickaxe": "Upgrade pickaxe",
