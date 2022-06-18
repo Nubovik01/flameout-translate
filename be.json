@@ -471,9 +471,6 @@
             "notext": "ты не напісаў, што хочаш напісаць ад імя бота.",
             "nopingeveryone": "я забараняю пінгаваць усіх :<"
         },
-        "amonguscode": {
-            "code": "Код: `%s`"
-        },
         "shop": {
             "upgradingpickaxe": {
                 "upgradepickaxe": "Палепшыць кірку",
