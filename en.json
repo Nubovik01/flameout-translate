@@ -902,7 +902,7 @@
         },
         "pressf": {
             "nouser": "you don't mention user.",
-            "description": "F to the mentioned user"
+            "description": "Press F to the mentioned user"
         },
         "profile": {
             "premiumBuy": "bought",
