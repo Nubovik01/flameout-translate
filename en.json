@@ -221,7 +221,6 @@
             "nopingeveryone": "you can't ping everyone :<"
         },
         "amonguscode": {
-            "region": "Region: `%s`",
             "code": "Code: `%s`"
         },
         "shop": {
