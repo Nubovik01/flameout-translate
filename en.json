@@ -331,7 +331,6 @@
         },
         "rob": {
             "cooldown": "cooldown `30` minutes.",
-            "nocooldown": "you can rob again. Command `%srob`",
             "minimumlevel": "for robberies you need at least level 15.",
             "nomention": "mention the person you want to rob.",
             "robbing": "you are looking for unlocked doors in the house, it will take 5 minutes.",
@@ -343,15 +342,10 @@
             "description": "Allows you to rob the mentioned user"
         },
         "robsnus": {
-            "cooldown": "cooldown! `30` minutes.",
             "nocooldown": "you can rob again. Command `%srobsnus`",
-            "minimumlevel": "for snus robberies you need at least `10` level.",
             "nomention": "you didn't mention who you want to steal the snus puck from.",
-            "victimnosnus1": "he doesn't have snus.",
             "victimnosnus2": "he doesn't have `%s` snus :(",
-            "victimmessage": "You were robbed by the snus-eater <@%s> and he stole the `%s` of snus from you.",
             "hacking": "the safe with snus is hacked, wait 5 minutes.",
-            "uspeshno": "You have successfully stolen `%s` snus from <@%s>.",
             "neudachno": "you could not guess the password to the safe."
         },
         "roulette": {
@@ -448,9 +442,7 @@
             "description": "RP command, allows you to tell users in the chat what you are waiting for at the moment"
         },
         "snuseat": {
-            "nosnus": "you don't have snus.",
-            "eat": "You eat snus.",
-            "exp": "`+35` experience"
+            "eat": "You eat snus."
         },
         "uptime": {
             "botuptime": "🕟 %s bot was launched.",
@@ -621,9 +613,7 @@
             "description": "Allows you to transfer bitcoin to the mentioned user"
         },
         "paysnus": {
-            "nouser": "mention who you want to give snus to.",
             "nosnus": "you don't have snus.",
-            "paytome": "Why transfer snus to yourself?",
             "paysnus": "<@%s> gifted snus to %s"
         },
         "pension": {
@@ -1024,13 +1014,9 @@
             "description": "Multi opening boxes"
         },
         "msnuseat": {
-            "noArgs": "You haven't specified how much snus you want to eat.",
             "nedostatochnoSnusa": "you try to eat as much snus as you don't have.",
-            "noSnus": "You don't have snus.",
             "eatSnus": "Eating snus",
-            "eatSnusText": "You eat snus",
-            "addExp": "`+%s` experience",
-            "haveSnus": "You still have snus `%s` left."
+            "addExp": "`+%s` experience"
         },
         "openbox": {
             "openbox": "Opening box",
