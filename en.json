@@ -342,11 +342,8 @@
             "description": "Allows you to rob the mentioned user"
         },
         "robsnus": {
-            "nocooldown": "you can rob again. Command `%srobsnus`",
             "nomention": "you didn't mention who you want to steal the snus puck from.",
-            "victimnosnus2": "he doesn't have `%s` snus :(",
-            "hacking": "the safe with snus is hacked, wait 5 minutes.",
-            "neudachno": "you could not guess the password to the safe."
+            "hacking": "the safe with snus is hacked, wait 5 minutes."
         },
         "roulette": {
             "example": "Input example: `%sroulette [чет/нечет/число] [bid]`",
@@ -440,9 +437,6 @@
         "waiting": {
             "userwaiting": "<@%s> waiting",
             "description": "RP command, allows you to tell users in the chat what you are waiting for at the moment"
-        },
-        "snuseat": {
-            "eat": "You eat snus."
         },
         "uptime": {
             "botuptime": "🕟 %s bot was launched.",
@@ -613,7 +607,6 @@
             "description": "Allows you to transfer bitcoin to the mentioned user"
         },
         "paysnus": {
-            "nosnus": "you don't have snus.",
             "paysnus": "<@%s> gifted snus to %s"
         },
         "pension": {
@@ -1014,9 +1007,7 @@
             "description": "Multi opening boxes"
         },
         "msnuseat": {
-            "nedostatochnoSnusa": "you try to eat as much snus as you don't have.",
-            "eatSnus": "Eating snus",
-            "addExp": "`+%s` experience"
+            "eatSnus": "Eating snus"
         },
         "openbox": {
             "openbox": "Opening box",
