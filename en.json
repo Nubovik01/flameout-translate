@@ -342,7 +342,6 @@
             "description": "Allows you to rob the mentioned user"
         },
         "robsnus": {
-            "nomention": "you didn't mention who you want to steal the snus puck from.",
             "hacking": "the safe with snus is hacked, wait 5 minutes."
         },
         "roulette": {
@@ -605,9 +604,6 @@
             "paytome": "Why transfer bitcoin to yourself?",
             "paybitcoin": "You have transferred `1` bitcoin <@%s>",
             "description": "Allows you to transfer bitcoin to the mentioned user"
-        },
-        "paysnus": {
-            "paysnus": "<@%s> gifted snus to %s"
         },
         "pension": {
             "pension": "Pension",
@@ -1006,9 +1002,6 @@
             "snusfrombox": "Dropped `%s` of snus.",
             "description": "Multi opening boxes"
         },
-        "msnuseat": {
-            "eatSnus": "Eating snus"
-        },
         "openbox": {
             "openbox": "Opening box",
             "description": "open box"
@@ -1275,6 +1268,14 @@
                 "question": {
                     "description": "What question do you want to ask the ball?",
                     "name": "question"
+                }
+            }
+        },
+        "checkdomain": {
+            "name": "checkdomain",
+            "options": {
+                "domain": {
+                    "name": "domain"
                 }
             }
         }
