@@ -1,15 +1,7 @@
 {
     "command": {
-        "avatar": {
-            "title": ""
-        },
         "timeout": {
             "noTime": ""
-        },
-        "rankcard": {
-            "bgsinfo": {
-                "default2": ""
-            }
         }
     }
 }
