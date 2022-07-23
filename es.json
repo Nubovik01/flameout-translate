@@ -1,39 +1,17 @@
 {
-    "general": {
-        "pets": {
-            "HohliDog1": ""
-        }
-    },
     "command": {
         "bughuntersOnline4": "",
-        "8ball": {
-            "answers": {
-                "notsure": ""
-            }
-        },
         "avatar": {
             "title": ""
-        },
-        "ping": {
-            "pong": ""
         },
         "card": {
             "removecontracttext": ""
         },
-        "animals": {
-            "randomcat": ""
-        },
         "timeout": {
             "noTime": ""
         },
-        "leaders": {
-            "leadersOfCoinsOnHilarious": ""
-        },
         "hit": {
             "noHitYourself": ""
-        },
-        "help": {
-            "page": ""
         },
         "rankcard": {
             "bgsinfo": {
@@ -42,9 +20,6 @@
         }
     },
     "slashcommand": {
-        "bird": {
-            "description": ""
-        },
         "ben": {
             "description": ""
         }
