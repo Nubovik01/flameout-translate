@@ -1,84 +1,48 @@
 {
     "general": {
-        "version": "",
         "pets": {
             "HohliDog1": ""
         }
     },
     "command": {
-        "cooldown": "",
         "bughuntersOnline4": "",
-        "DB4": "",
         "8ball": {
             "answers": {
                 "notsure": ""
             }
         },
-        "textreverse": {
-            "notext": ""
-        },
         "avatar": {
             "title": ""
-        },
-        "roulette": {
-            "win": ""
         },
         "ping": {
             "pong": ""
         },
-        "setslowmode": {
-            "changeslowmode": ""
-        },
         "card": {
             "removecontracttext": ""
-        },
-        "leafsell": {
-            "userdonthaveleaf": ""
         },
         "animals": {
             "randomcat": ""
         },
-        "pay": {
-            "noNumberMoney": ""
-        },
         "timeout": {
             "noTime": ""
-        },
-        "eat": {
-            "description": ""
         },
         "leaders": {
             "leadersOfCoinsOnHilarious": ""
         },
-        "mine": {
-            "iron": ""
-        },
         "hit": {
             "noHitYourself": ""
         },
-        "hypixelstats": {
-            "rank": ""
-        },
         "help": {
             "page": ""
-        },
-        "profile": {
-            "badges": ""
         },
         "rankcard": {
             "bgsinfo": {
                 "default2": ""
             }
-        },
-        "mopenbox": {
-            "noBoxes": ""
         }
     },
     "slashcommand": {
         "bird": {
-            "description": ""
-        },
-        "hit": {
             "description": ""
         },
         "ben": {
