@@ -1,27 +1,15 @@
 {
     "command": {
-        "bughuntersOnline4": "",
         "avatar": {
             "title": ""
         },
-        "card": {
-            "removecontracttext": ""
-        },
         "timeout": {
             "noTime": ""
-        },
-        "hit": {
-            "noHitYourself": ""
         },
         "rankcard": {
             "bgsinfo": {
                 "default2": ""
             }
-        }
-    },
-    "slashcommand": {
-        "ben": {
-            "description": ""
         }
     }
 }
