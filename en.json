@@ -341,9 +341,6 @@
             "15lvlMentionUser": "you can't hack this player because his level is less than 15",
             "description": "Allows you to rob the mentioned user"
         },
-        "robsnus": {
-            "hacking": "the safe with snus is hacked, wait 5 minutes."
-        },
         "roulette": {
             "example": "Input example: `%sroulette [чет/нечет/число] [bid]`",
             "nomoney": "insufficient funds",

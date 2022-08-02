@@ -603,7 +603,7 @@
         "bitcoinsell": {
             "description": "С помощью этой команды вы можете продать биткоин в FlameOut",
             "userdonthavebitcoin": "у тебя нету `биткоинов`.",
-            "usersellbitcoin": "`1` биткоин продан за `%s` монет."
+            "usersellbitcoin": " `1` биткоин продан за `%s` монет."
         },
         "paybitcoin": {
             "description": "Позволяет передать биткоин упомянутому пользователю",
