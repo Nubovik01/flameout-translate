@@ -137,12 +137,9 @@
             "levelUp": "Уровень повышен! Твой уровень теперь `%s`!",
             "disabledCommand": "Извините, но эта команда на данный момент недоступна."
         },
-        "nomanagemessagesrights": "у тебя нет права на управление сообщениями.",
         "botnomanagechannelsrights": "у бота нет права на управление каналами.",
         "staffOnline1": "Staff online",
-        "staffOnline3": "staff online",
         "bughuntersOnline1": "Bug-hunters online",
-        "bughuntersOnline3": "bug-hunters online",
         "whoAreWe1": "Who are we?",
         "cooldown": "cooldown! %s seconds.",
         "halloween1": "Happy Halloween! Boo!",
@@ -631,7 +628,6 @@
             "nodeleteargument": "how many messages do you want to delete?",
             "menshe100": "specify a number less than `100`.",
             "bolshe0": "specify a number greater than `0`.",
-            "botdoesntrightspermissionstoclear": "the bot has no rights to manage messages.",
             "deletemessages": "deleted messages: `%s`",
             "description": "The bot will clear the specified number of messages in the channel where the command was executed"
         },
