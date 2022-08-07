@@ -533,9 +533,7 @@
             "description": "Выпрабаваць поспех"
         },
         "photofilter": {
-            "creating": "ствараю...",
             "nophoto": "вы забыліся прымацаваць фатаграфію да паведамлення.",
-            "noavatar": "у вас няма аватаркі.",
             "userdonthaveavatar": "у згаданага карыстальніка няма аватаркі."
         },
         "react": {
@@ -1047,7 +1045,6 @@
             "description": "Піт"
         },
         "pressf": {
-            "nouser": "згадай карыстальніка.",
             "description": "F згаданаму карыстальніку"
         },
         "resourceprofile": {
@@ -1134,7 +1131,6 @@
         },
         "slashcommand": {
             "hungry": {
-                "name": "галодны",
                 "description": "Быць галодным"
             }
         },

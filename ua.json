@@ -283,9 +283,7 @@
             "description": "Зазнати успіху"
         },
         "photofilter": {
-            "creating": "створювати...",
             "nophoto": "ви забули прикріпити світлину до повідомлення.",
-            "noavatar": "у вас немає аватарки.",
             "userdonthaveavatar": "у згадуваного користувача немає аватарки."
         },
         "react": {
@@ -857,7 +855,6 @@
             "description": "Спит"
         },
         "pressf": {
-            "nouser": "згадай користувача.",
             "description": "F згаданому користувачеві"
         },
         "profile": {
@@ -1031,7 +1028,6 @@
         },
         "slashcommand": {
             "hungry": {
-                "name": "голодний",
                 "description": "Бути голодним"
             }
         },

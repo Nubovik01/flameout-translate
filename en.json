@@ -283,9 +283,7 @@
             "description": "try your luck"
         },
         "photofilter": {
-            "creating": "creating...",
             "nophoto": "you haven't attached a photo to your message.",
-            "noavatar": "you don't have avatar.",
             "userdonthaveavatar": "the mentioned user does not have an avatar."
         },
         "react": {
@@ -861,7 +859,6 @@
             "description": "Popit"
         },
         "pressf": {
-            "nouser": "you don't mention user.",
             "description": "Press F to the mentioned user"
         },
         "profile": {
@@ -1031,7 +1028,6 @@
         },
         "slashcommand": {
             "hungry": {
-                "description": "Be hungry",
                 "name": "hungry"
             }
         },
