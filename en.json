@@ -137,7 +137,6 @@
             "levelUp": "Уровень повышен! Твой уровень теперь `%s`!",
             "disabledCommand": "Извините, но эта команда на данный момент недоступна."
         },
-        "botnomanagechannelsrights": "у бота нет права на управление каналами.",
         "staffOnline1": "Staff online",
         "bughuntersOnline1": "Bug-hunters online",
         "whoAreWe1": "Who are we?",
