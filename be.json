@@ -400,24 +400,15 @@
         "error2": "⚠️ **Адбылася памылка!**\nАдказ API: %s",
         "buy1": "Купіць",
         "cancel1": "Адмяніць",
-        "inCache1": "У кэшы",
         "inCache2": "У кэшы: %s",
-        "inCache3": "у кэшы",
         "inCache4": "у кэшы: %s",
-        "Cache1": "кэш",
         "Cache2": "кэш: %s",
-        "Cache3": "Кеш",
         "Cache4": "Кеш: %s",
-        "inDB1": "У БД",
         "inDB2": "У бд",
-        "inDB3": "У БД: %s",
         "inDB4": "У бд: %s",
-        "inDB5": "у БД",
         "inDB6": "у бд",
         "inDB7": "у БД: %s",
-        "inDB8": "у бд: %s",
         "DB1": "БД",
-        "DB2": "бд",
         "DB3": "БД: %s",
         "DB4": "бд: %s",
         "ms1": "МС",
@@ -533,7 +524,6 @@
             "description": "Выпрабаваць поспех"
         },
         "photofilter": {
-            "nophoto": "вы забыліся прымацаваць фатаграфію да паведамлення.",
             "userdonthaveavatar": "у згаданага карыстальніка няма аватаркі."
         },
         "react": {
@@ -1044,9 +1034,6 @@
             "name": "Піт у дыскордзе",
             "description": "Піт"
         },
-        "pressf": {
-            "description": "F згаданаму карыстальніку"
-        },
         "resourceprofile": {
             "resources": "Рэсурсы",
             "stone": "Камень: `%s`",
@@ -1128,11 +1115,6 @@
             "listening": "Бэн слухае ваша пытанне...",
             "answer": "Бэн адказаў: %s",
             "description": "Задаць пытанне Бэну"
-        },
-        "slashcommand": {
-            "hungry": {
-                "description": "Быць галодным"
-            }
         },
         "checkdomain": {
             "informationProvided": "Інфармацыя прадстаўлена %s",
