@@ -609,7 +609,8 @@
             "inserver1": "на сервере",
             "inserver2": "на сервере",
             "developers1": "Разработчики",
-            "developers2": "разработчики"
+            "developers2": "разработчики",
+            "aliases": "алиасов"
         },
         "animals": {
             "randomcat": "Случайный кот",
