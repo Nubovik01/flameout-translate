@@ -149,11 +149,24 @@
         "error2": "⚠️ **An error has occurred!**\nAPI answer: %s",
         "buy1": "Buy",
         "cancel1": "Cancel",
+        "inCache1": "In cache",
+        "inCache2": "In cache: %s",
+        "inCache3": "in cache",
         "inCache4": "in cache: %s",
+        "Cache1": "cache",
         "Cache2": "cache: %s",
+        "Cache3": "Cache",
+        "Cache4": "Cache: %s",
+        "inDB1": "In db",
         "inDB2": "In db",
+        "inDB3": "In db: %s",
+        "inDB4": "In db: %s",
+        "inDB5": "in db",
         "inDB6": "in db",
         "inDB7": "in db: %s",
+        "inDB8": "in db: %s",
+        "DB1": "DB",
+        "DB2": "db",
         "DB3": "DB: %s",
         "DB4": "db: %s",
         "ms1": "MS",
@@ -268,6 +281,10 @@
             "nolucky": "- unsuccessfully",
             "notext": "you have not specified the text",
             "description": "try your luck"
+        },
+        "photofilter": {
+            "nophoto": "you haven't attached a photo to your message.",
+            "userdonthaveavatar": "the mentioned user does not have an avatar."
         },
         "react": {
             "adding": "🔄 | Adding reactions to your message...",
@@ -841,6 +858,9 @@
             "name": "Popit in discord",
             "description": "Popit"
         },
+        "pressf": {
+            "description": "Press F to the mentioned user"
+        },
         "profile": {
             "premiumBuy": "bought",
             "premiumNoBuy": "not bought",
@@ -1005,6 +1025,11 @@
             "disable": "Anti-bad words filter off.",
             "enable": "The anti-bad words filter is enabled. Now bad words will be deleted.",
             "description": "Enabling or disabling anti-mate in FlameOut on the server on which the command was called"
+        },
+        "slashcommand": {
+            "hungry": {
+                "name": "hungry"
+            }
         },
         "checkdomain": {
             "description": "Check if the domain is secure. That is, is there a scam on the site, for example, if there are messages like \"Free Discord Nitro\" or the like on the site, and / or, for example, one letter has been changed in the discord.com domain (for example: dicsord.gg), then it will be marked in the system like a scam or phishing site.",
