@@ -149,15 +149,11 @@
         "error2": "⚠️ **Сталася помилка!**\nВідповідь API: %s",
         "buy1": "Купити",
         "cancel1": "Відмінивши",
-        "inCache2": "У кеші: %s",
         "inCache4": "у кеші: %s",
         "Cache2": "кеш: %s",
-        "Cache4": "Кеш: %s",
         "inDB2": "у бд",
-        "inDB4": "у бд: %s",
         "inDB6": "у бд",
         "inDB7": "у БД: %s",
-        "DB1": "БД",
         "DB3": "БД: %s",
         "DB4": "бд: %s",
         "ms1": "МС",
@@ -240,21 +236,15 @@
             "done": "Ось, що у мене вийшло.",
             "description": "Напише ваш текст задом наперед"
         },
-        "vimeworldgames": {
-            "title": "Ігри на сервері **VimeWorld**"
-        },
         "vimeworldonline": {
             "players": {
-                "onlineonvimeworld": "Онлайн на сервері **VimeWorld**",
-                "onlineonservers": "Онлайн на режимах."
+                "onlineonvimeworld": "Онлайн на сервері **VimeWorld**"
             },
             "moderators": {
                 "allmoders": "Всього `%s` модераторів на сервері."
             },
             "streams": {
-                "name": "Назва: **`%s`**",
                 "online": "Кількість глядачів: **`%s`**",
-                "viewstream": "Дивитися стрім",
                 "allstreams": "Всього `%s` стрімів на сервері."
             }
         },

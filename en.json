@@ -149,15 +149,11 @@
         "error2": "⚠️ **An error has occurred!**\nAPI answer: %s",
         "buy1": "Buy",
         "cancel1": "Cancel",
-        "inCache2": "In cache: %s",
         "inCache4": "in cache: %s",
         "Cache2": "cache: %s",
-        "Cache4": "Cache: %s",
         "inDB2": "In db",
-        "inDB4": "In db: %s",
         "inDB6": "in db",
         "inDB7": "in db: %s",
-        "DB1": "DB",
         "DB3": "DB: %s",
         "DB4": "db: %s",
         "ms1": "MS",
@@ -240,21 +236,15 @@
             "done": "That's what I did.",
             "description": "Write your text backwards"
         },
-        "vimeworldgames": {
-            "title": "Games on **VimeWorld**"
-        },
         "vimeworldonline": {
             "players": {
-                "onlineonvimeworld": "Online on **VimeWorld**",
-                "onlineonservers": "Online in modes."
+                "onlineonvimeworld": "Online on **VimeWorld**"
             },
             "moderators": {
                 "allmoders": "There are only `%s` moderators on the server."
             },
             "streams": {
-                "name": "Name: **`%s`**",
                 "online": "Online: **`%s`**",
-                "viewstream": "View stream",
                 "allstreams": "There are only `%s` streams on the server."
             }
         },
@@ -263,9 +253,6 @@
             "nolucky": "- unsuccessfully",
             "notext": "you have not specified the text",
             "description": "try your luck"
-        },
-        "photofilter": {
-            "userdonthaveavatar": "the mentioned user does not have an avatar."
         },
         "react": {
             "adding": "🔄 | Adding reactions to your message...",
