@@ -400,9 +400,7 @@
         "error2": "⚠️ **Адбылася памылка!**\nАдказ API: %s",
         "buy1": "Купіць",
         "cancel1": "Адмяніць",
-        "inCache4": "у кэшы: %s",
         "Cache2": "кэш: %s",
-        "inDB2": "У бд",
         "inDB6": "у бд",
         "inDB7": "у БД: %s",
         "DB3": "БД: %s",
@@ -487,14 +485,10 @@
             "description": "Напіша ваш тэкст задам наперад"
         },
         "vimeworldonline": {
-            "players": {
-                "onlineonvimeworld": "Анлайн на серверы **VimeWorld**"
-            },
             "moderators": {
                 "allmoders": "Усяго `%s` мадэратараў на сэрвэры."
             },
             "streams": {
-                "online": "Колькасць гледачоў: **`%s`**",
                 "allstreams": "Усяго '%s' стрымаў на серверы."
             }
         },

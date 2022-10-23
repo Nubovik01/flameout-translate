@@ -149,9 +149,7 @@
         "error2": "⚠️ **An error has occurred!**\nAPI answer: %s",
         "buy1": "Buy",
         "cancel1": "Cancel",
-        "inCache4": "in cache: %s",
         "Cache2": "cache: %s",
-        "inDB2": "In db",
         "inDB6": "in db",
         "inDB7": "in db: %s",
         "DB3": "DB: %s",
@@ -237,14 +235,10 @@
             "description": "Write your text backwards"
         },
         "vimeworldonline": {
-            "players": {
-                "onlineonvimeworld": "Online on **VimeWorld**"
-            },
             "moderators": {
                 "allmoders": "There are only `%s` moderators on the server."
             },
             "streams": {
-                "online": "Online: **`%s`**",
                 "allstreams": "There are only `%s` streams on the server."
             }
         },
