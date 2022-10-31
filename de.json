@@ -1,102 +1,51 @@
 {
     "general": {
-        "version": "",
         "permissions": {
             "PrioritySpeaker": ""
-        },
-        "tools": {
-            "pickaxe": {
-                "wooden": ""
-            }
         },
         "gender": {
             "man2": ""
         }
     },
     "command": {
-        "embeds": {
-            "rights": {
-                "userNotInVoiceChannel": ""
-            }
-        },
         "8ball": {
             "wait": ""
-        },
-        "shop": {
-            "upgradingaxe": {
-                "maximumaxe": ""
-            }
         },
         "redguyinfo": {
             "noid": ""
         },
-        "sad": {
-            "description": ""
-        },
         "ban": {
             "BotNotHaveRightsToManageChannels": ""
-        },
-        "kick": {
-            "description": ""
         },
         "card": {
             "banktext": ""
         },
-        "leafsell": {
-            "leafsell": ""
-        },
         "animals": {
             "randomcat": ""
-        },
-        "paygift": {
-            "payToBot": ""
         },
         "checkip": {
             "proxy": ""
         },
-        "vkuserinfo": {
-            "city": ""
-        },
         "cointree": {
             "description": ""
         },
-        "badwords": {
-            "disable": ""
-        },
         "mine": {
             "diamond": ""
-        },
-        "kiss": {
-            "description": ""
         },
         "hypixelstats": {
             "level": ""
         },
         "profile": {
-            "premiumBuy": "",
             "badges2": ""
-        },
-        "rankcard": {
-            "level": ""
         },
         "mopenbox": {
             "nopefrombox": ""
         }
     },
     "slashcommand": {
-        "dog": {
-            "name": ""
-        },
         "choose": {
             "options": {
                 "two": {
-                    "name": ""
-                }
-            }
-        },
-        "idea": {
-            "options": {
-                "idea": {
                     "name": ""
                 }
             }
