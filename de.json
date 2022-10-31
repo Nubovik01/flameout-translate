@@ -1,13 +1,7 @@
 {
     "command": {
-        "redguyinfo": {
-            "noid": ""
-        },
         "checkip": {
             "proxy": ""
-        },
-        "profile": {
-            "badges2": ""
         }
     }
 }
