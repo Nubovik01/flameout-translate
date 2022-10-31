@@ -1,33 +1,13 @@
 {
-    "general": {
-        "gender": {
-            "man2": ""
-        }
-    },
     "command": {
         "redguyinfo": {
             "noid": ""
         },
-        "card": {
-            "banktext": ""
-        },
         "checkip": {
             "proxy": ""
         },
-        "mine": {
-            "diamond": ""
-        },
         "profile": {
             "badges2": ""
-        }
-    },
-    "slashcommand": {
-        "choose": {
-            "options": {
-                "two": {
-                    "name": ""
-                }
-            }
         }
     }
 }
