@@ -1,45 +1,24 @@
 {
     "general": {
-        "permissions": {
-            "PrioritySpeaker": ""
-        },
         "gender": {
             "man2": ""
         }
     },
     "command": {
-        "8ball": {
-            "wait": ""
-        },
         "redguyinfo": {
             "noid": ""
-        },
-        "ban": {
-            "BotNotHaveRightsToManageChannels": ""
         },
         "card": {
             "banktext": ""
         },
-        "animals": {
-            "randomcat": ""
-        },
         "checkip": {
             "proxy": ""
-        },
-        "cointree": {
-            "description": ""
         },
         "mine": {
             "diamond": ""
         },
-        "hypixelstats": {
-            "level": ""
-        },
         "profile": {
             "badges2": ""
-        },
-        "mopenbox": {
-            "nopefrombox": ""
         }
     },
     "slashcommand": {
