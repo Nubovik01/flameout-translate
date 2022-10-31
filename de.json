@@ -1,19 +1,13 @@
 {
     "general": {
-        "Shop": "",
         "version": "",
-        "botlists2": "",
         "permissions": {
-            "PrioritySpeaker": "",
-            "ManageEmojisAndStickers": ""
+            "PrioritySpeaker": ""
         },
         "tools": {
             "pickaxe": {
                 "wooden": ""
             }
-        },
-        "pets": {
-            "nopePet": ""
         },
         "gender": {
             "man2": ""
@@ -22,141 +16,75 @@
     "command": {
         "embeds": {
             "rights": {
-                "userNotHaveRightsToManageMessages": "",
                 "userNotInVoiceChannel": ""
             }
         },
-        "inDB6": "",
         "8ball": {
-            "wait": "",
-            "answers": {
-                "myanswerisno": ""
-            }
+            "wait": ""
         },
         "shop": {
             "upgradingaxe": {
                 "maximumaxe": ""
             }
         },
-        "categorystats": {
-            "description": ""
-        },
         "redguyinfo": {
             "noid": ""
-        },
-        "rob": {
-            "minimumlevel": ""
         },
         "sad": {
             "description": ""
         },
-        "serverinfo": {
-            "owner": ""
-        },
         "ban": {
             "BotNotHaveRightsToManageChannels": ""
-        },
-        "singing": {
-            "description": ""
         },
         "kick": {
             "description": ""
         },
-        "bank": {
-            "deposit": {
-                "depositmoremaxcoinsinbank": ""
-            }
-        },
         "card": {
             "banktext": ""
-        },
-        "fish": {
-            "fish": ""
         },
         "leafsell": {
             "leafsell": ""
         },
-        "botinfo": {
-            "command": ""
-        },
         "animals": {
             "randomcat": ""
-        },
-        "bitcoinsell": {
-            "userdonthavebitcoin": ""
         },
         "paygift": {
             "payToBot": ""
         },
-        "bug": {
-            "noargument": ""
-        },
         "checkip": {
             "proxy": ""
-        },
-        "covid19": {
-            "description": ""
         },
         "vkuserinfo": {
             "city": ""
         },
-        "cube": {
-            "maxstavka": ""
-        },
         "cointree": {
             "description": ""
-        },
-        "leaders": {
-            "leadersofbank": ""
         },
         "badwords": {
             "disable": ""
         },
-        "mgift": {
-            "nokolichestvo": ""
-        },
         "mine": {
             "diamond": ""
-        },
-        "minecraftserver": {
-            "infoofserver": ""
         },
         "kiss": {
             "description": ""
         },
         "hypixelstats": {
-            "offline": "",
             "level": ""
-        },
-        "janitor": {
-            "description": ""
         },
         "profile": {
             "premiumBuy": "",
-            "coins": "",
             "badges2": ""
-        },
-        "resourceprofile": {
-            "emerald": ""
         },
         "rankcard": {
             "level": ""
         },
-        "minesell": {
-            "sellquartz": ""
-        },
         "mopenbox": {
             "nopefrombox": ""
-        },
-        "ben": {
-            "ugh1": ""
         }
     },
     "slashcommand": {
         "dog": {
-            "name": ""
-        },
-        "covid19": {
             "name": ""
         },
         "choose": {
@@ -166,19 +94,9 @@
                 }
             }
         },
-        "botlists": {
-            "name": ""
-        },
         "idea": {
             "options": {
                 "idea": {
-                    "name": ""
-                }
-            }
-        },
-        "lyrics": {
-            "options": {
-                "track": {
                     "name": ""
                 }
             }
