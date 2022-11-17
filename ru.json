@@ -153,7 +153,9 @@
             "woman4": "женщина"
         },
         "hilsuMCserver": "Hilarious - Minecraft-сервер.",
-        "what": "Что?"
+        "what": "Что?",
+        "stopBadWords": "%s, такое писать запрещено на этом сервере.",
+        "unknownCommand": "Возможно, вы имели ввиду команду `%s%s` (шанс: `%s/1.00 %`)?"
     },
     "command": {
         "indev1": "(в разработке)",
