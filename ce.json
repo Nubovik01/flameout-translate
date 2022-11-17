@@ -1,27 +1,13 @@
 {
-    "general": {
-        "gender": {
-            "man2": ""
-        }
-    },
     "command": {
         "redguyinfo": {
             "description": ""
         },
-        "card": {
-            "successremovecontract": ""
-        },
         "checkip": {
             "infopoip": ""
         },
-        "mgift": {
-            "nokolichestvo": ""
-        },
         "profile": {
             "coins": ""
-        },
-        "robsnus": {
-            "nocooldown": ""
         }
     },
     "slashcommand": {
