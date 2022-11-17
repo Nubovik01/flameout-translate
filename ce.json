@@ -1,19 +1,13 @@
 {
     "general": {
-        "Shop": "",
         "version": "",
-        "botlists2": "",
         "permissions": {
-            "PrioritySpeaker": "",
-            "ManageEmojisAndStickers": ""
+            "PrioritySpeaker": ""
         },
         "tools": {
             "pickaxe": {
                 "wooden": ""
             }
-        },
-        "pets": {
-            "nopePet": ""
         },
         "gender": {
             "man2": ""
@@ -22,155 +16,84 @@
     "command": {
         "embeds": {
             "rights": {
-                "userNotHaveRightsToManageMessages": "",
                 "userNotInVoiceChannel": ""
             }
         },
-        "inDB6": "",
         "8ball": {
-            "wait": "",
-            "answers": {
-                "myanswerisno": ""
-            }
+            "wait": ""
         },
         "shop": {
             "upgradingaxe": {
                 "nomoneyforupgrade": ""
             }
         },
-        "allresources": {
-            "fish": ""
-        },
         "redguyinfo": {
             "description": ""
-        },
-        "rob": {
-            "cooldown": ""
         },
         "roulette": {
             "win": ""
         },
-        "serverinfo": {
-            "name": ""
-        },
         "ping": {
             "pong": ""
-        },
-        "short": {
-            "error1": ""
         },
         "setslowmode": {
             "changed": ""
         },
-        "bank": {
-            "deposit": {
-                "usernothavecoins": ""
-            }
-        },
         "card": {
             "successremovecontract": ""
-        },
-        "bin": {
-            "maxnumber": ""
         },
         "woodsell": {
             "woodsell": ""
         },
         "botinfo": {
-            "uptime": "",
             "developers1": ""
-        },
-        "bitcoin": {
-            "bitcoinbuy": ""
         },
         "paygift": {
             "noGift": ""
         },
-        "pension": {
-            "stop": ""
-        },
         "checkip": {
             "infopoip": ""
         },
-        "choose": {
-            "no1thvariant": ""
-        },
         "vkuserinfo": {
-            "description": "",
-            "relations": {
-                "nejenat": ""
-            }
+            "description": ""
         },
         "cube": {
             "userwin": ""
         },
-        "cointree": {
-            "givemoney": ""
-        },
         "leaders": {
             "leadersOfSafeLevel": ""
-        },
-        "donate": {
-            "donate": ""
         },
         "mgift": {
             "nokolichestvo": ""
         },
-        "mine": {
-            "diamond": ""
-        },
         "minecraftserver": {
             "infoofserver": ""
         },
-        "kiss": {
-            "description": ""
-        },
         "hypixelstats": {
-            "offline": "",
-            "level": ""
+            "offline": ""
         },
         "janitor": {
             "description": ""
         },
         "profile": {
-            "premiumBuy": "",
-            "coins": "",
-            "badges2": ""
+            "coins": ""
         },
         "resourceprofile": {
             "emerald": ""
         },
-        "rankcard": {
-            "level": ""
-        },
         "minesell": {
             "sellquartz": ""
-        },
-        "mopenbox": {
-            "nopefrombox": ""
         },
         "ben": {
             "ugh1": ""
         },
-        "vimeworldonline": {
-            "players": {
-                "onlineonservers": ""
-            }
-        },
         "robsnus": {
             "nocooldown": ""
         },
-        "nomanageserverrights": "",
-        "inCache4": "",
-        "msnuseat": {
-            "nedostatochnoSnusa": ""
-        }
+        "inCache4": ""
     },
     "slashcommand": {
         "bunny": {
-            "name": ""
-        },
-        "checkip": {
             "name": ""
         },
         "hit": {
@@ -180,19 +103,9 @@
                 }
             }
         },
-        "version": {
-            "name": ""
-        },
         "ben": {
             "options": {
                 "question": {
-                    "name": ""
-                }
-            }
-        },
-        "checkdomain": {
-            "options": {
-                "domain": {
                     "name": ""
                 }
             }
