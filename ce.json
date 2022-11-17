@@ -1,54 +1,30 @@
 {
     "general": {
-        "permissions": {
-            "PrioritySpeaker": ""
-        },
         "gender": {
             "man2": ""
         }
     },
     "command": {
-        "8ball": {
-            "wait": ""
-        },
         "redguyinfo": {
             "description": ""
-        },
-        "ping": {
-            "pong": ""
         },
         "card": {
             "successremovecontract": ""
         },
-        "botinfo": {
-            "developers1": ""
-        },
         "checkip": {
             "infopoip": ""
-        },
-        "cube": {
-            "userwin": ""
         },
         "mgift": {
             "nokolichestvo": ""
         },
-        "hypixelstats": {
-            "offline": ""
-        },
         "profile": {
             "coins": ""
-        },
-        "minesell": {
-            "sellquartz": ""
         },
         "robsnus": {
             "nocooldown": ""
         }
     },
     "slashcommand": {
-        "bunny": {
-            "name": ""
-        },
         "ben": {
             "options": {
                 "question": {
