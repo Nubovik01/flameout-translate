@@ -1,107 +1,53 @@
 {
     "general": {
-        "version": "",
         "permissions": {
             "PrioritySpeaker": ""
-        },
-        "tools": {
-            "pickaxe": {
-                "wooden": ""
-            }
         },
         "gender": {
             "man2": ""
         }
     },
     "command": {
-        "embeds": {
-            "rights": {
-                "userNotInVoiceChannel": ""
-            }
-        },
         "8ball": {
             "wait": ""
-        },
-        "shop": {
-            "upgradingaxe": {
-                "nomoneyforupgrade": ""
-            }
         },
         "redguyinfo": {
             "description": ""
         },
-        "roulette": {
-            "win": ""
-        },
         "ping": {
             "pong": ""
-        },
-        "setslowmode": {
-            "changed": ""
         },
         "card": {
             "successremovecontract": ""
         },
-        "woodsell": {
-            "woodsell": ""
-        },
         "botinfo": {
             "developers1": ""
-        },
-        "paygift": {
-            "noGift": ""
         },
         "checkip": {
             "infopoip": ""
         },
-        "vkuserinfo": {
-            "description": ""
-        },
         "cube": {
             "userwin": ""
-        },
-        "leaders": {
-            "leadersOfSafeLevel": ""
         },
         "mgift": {
             "nokolichestvo": ""
         },
-        "minecraftserver": {
-            "infoofserver": ""
-        },
         "hypixelstats": {
             "offline": ""
-        },
-        "janitor": {
-            "description": ""
         },
         "profile": {
             "coins": ""
         },
-        "resourceprofile": {
-            "emerald": ""
-        },
         "minesell": {
             "sellquartz": ""
         },
-        "ben": {
-            "ugh1": ""
-        },
         "robsnus": {
             "nocooldown": ""
-        },
-        "inCache4": ""
+        }
     },
     "slashcommand": {
         "bunny": {
             "name": ""
-        },
-        "hit": {
-            "options": {
-                "user": {
-                    "name": ""
-                }
-            }
         },
         "ben": {
             "options": {
