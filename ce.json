@@ -1,13 +1,7 @@
 {
     "command": {
-        "redguyinfo": {
-            "description": ""
-        },
         "checkip": {
             "infopoip": ""
-        },
-        "profile": {
-            "coins": ""
         }
     },
     "slashcommand": {
