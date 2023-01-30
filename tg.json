@@ -1,54 +1,30 @@
 {
     "general": {
-        "permissions": {
-            "ViewChannel": ""
-        },
         "gender": {
             "man1": ""
         }
     },
     "command": {
-        "vote": {
-            "link": ""
-        },
         "react": {
             "done": ""
-        },
-        "perms": {
-            "nouser": ""
         },
         "card": {
             "buycard": ""
         },
-        "botinfo": {
-            "localization": ""
-        },
         "checkip": {
             "neopredeleno": ""
-        },
-        "cube": {
-            "userDice": ""
         },
         "gift": {
             "havegifts": ""
         },
-        "hypixelstats": {
-            "description": ""
-        },
         "profile": {
             "level": ""
-        },
-        "minesell": {
-            "selllapis": ""
         },
         "photofilter": {
             "noavatar": ""
         }
     },
     "slashcommand": {
-        "dog": {
-            "description": ""
-        },
         "idea": {
             "options": {
                 "idea": {
