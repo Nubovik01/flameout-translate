@@ -1,178 +1,93 @@
 {
     "general": {
-        "Shop": "",
         "version": "",
-        "botlists2": "",
         "permissions": {
             "ViewChannel": "",
-            "UseApplicationCommands": "",
             "ManageNicknames": ""
-        },
-        "pets": {
-            "HohliDog2": ""
         },
         "gender": {
             "man1": ""
         }
     },
     "command": {
-        "dateformat2": "",
         "embeds": {
             "rights": {
                 "dontBanYourself": ""
             }
         },
-        "buy1": "",
         "vote": {
             "link": ""
-        },
-        "8ball": {
-            "answers": {
-                "mostlikely": ""
-            }
         },
         "shop": {
             "upgradingpickaxe": {
                 "nomoneyforupgrade": ""
             }
         },
-        "allresources": {
-            "levels": ""
-        },
         "react": {
             "done": ""
-        },
-        "redguystats": {
-            "allkills": ""
         },
         "roulette": {
             "maxstavka": ""
         },
-        "serverinfo": {
-            "verificationLevels": {
-                "high": ""
-            }
-        },
         "perms": {
             "nouser": ""
-        },
-        "setprefix": {
-            "setprefix": ""
         },
         "setslowmode": {
             "BotNotHaveRightsToManageChannels": ""
         },
-        "bank": {
-            "withdrawfrombank": ""
-        },
         "card": {
             "buycard": ""
-        },
-        "bankhack": {
-            "failinrobbing": ""
         },
         "wood": {
             "woodgo": ""
         },
         "botinfo": {
-            "description": "",
             "localization": ""
-        },
-        "bitcoin": {
-            "description": ""
         },
         "paygift": {
             "description": ""
         },
-        "pay": {
-            "commission": ""
-        },
         "checkip": {
             "neopredeleno": ""
-        },
-        "timeout": {
-            "errorTime": ""
         },
         "covid19": {
             "confirmed": ""
         },
-        "vkuserinfo": {
-            "sex": {
-                "man": ""
-            }
-        },
         "cube": {
             "userDice": ""
-        },
-        "cointree": {
-            "newmoneytime": ""
         },
         "leaders": {
             "leadersofboxes": ""
         },
-        "hiddeninleaders": {
-            "disable": ""
-        },
         "gift": {
             "havegifts": ""
-        },
-        "mine": {
-            "copper": ""
         },
         "minecraftserver": {
             "description": ""
         },
-        "hug": {
-            "nomention": ""
-        },
         "hypixelstats": {
             "description": "",
-            "rankcolor": "",
             "games_played": ""
         },
-        "popit": {
-            "description": ""
-        },
         "profile": {
-            "level": "",
-            "card": ""
+            "level": ""
         },
         "resourceprofile": {
             "quartz": ""
         },
-        "rankcard": {
-            "bgsinfo": {
-                "stones": ""
-            }
-        },
         "minesell": {
             "selllapis": ""
-        },
-        "mopenbox": {
-            "noResources": ""
         },
         "ben": {
             "yes1": ""
         },
-        "vimeworldgames": {
-            "name": ""
-        },
         "photofilter": {
             "noavatar": ""
         },
-        "paysnus": {
-            "nosnus": ""
-        },
-        "inCache1": "",
-        "amonguscode": {
-            "code": ""
-        }
+        "inCache1": ""
     },
     "slashcommand": {
         "dog": {
-            "description": ""
-        },
-        "covid19": {
             "description": ""
         },
         "choose": {
@@ -182,19 +97,9 @@
                 }
             }
         },
-        "botlists": {
-            "description": ""
-        },
         "idea": {
             "options": {
                 "idea": {
-                    "description": ""
-                }
-            }
-        },
-        "lyrics": {
-            "options": {
-                "track": {
                     "description": ""
                 }
             }
