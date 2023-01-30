@@ -1,54 +1,34 @@
 {
     "general": {
-        "Fun": "",
         "Shop": "",
-        "executor": "",
         "version": "",
-        "Wood": "",
         "botlists2": "",
         "permissions": {
-            "CreateInstantInvite": "",
             "ViewChannel": "",
-            "MuteMembers": "",
             "UseApplicationCommands": "",
-            "CreatePublicThreads": "",
             "ManageNicknames": ""
         },
-        "tools": {
-            "axe": {
-                "wooden": ""
-            }
-        },
         "pets": {
-            "HohliDog2": "",
-            "food": {
-                "DogFood": ""
-            }
+            "HohliDog2": ""
         },
         "gender": {
             "man1": ""
-        },
-        "hilsuMCserver": ""
+        }
     },
     "command": {
         "dateformat2": "",
         "embeds": {
             "rights": {
-                "botNotHaveRightsToManageChannels": "",
                 "dontBanYourself": ""
             }
         },
-        "bughuntersOnline1": "",
         "buy1": "",
-        "ms2": "",
         "vote": {
             "link": ""
         },
         "8ball": {
             "answers": {
-                "definitelyyes": "",
-                "mostlikely": "",
-                "unambiguously": ""
+                "mostlikely": ""
             }
         },
         "shop": {
@@ -57,252 +37,142 @@
             }
         },
         "allresources": {
-            "allresinbot": "",
             "levels": ""
-        },
-        "textreverse": {
-            "done": ""
         },
         "react": {
             "done": ""
         },
-        "redguyinfo": {
-            "userprofile": ""
-        },
         "redguystats": {
             "allkills": ""
-        },
-        "rob": {
-            "robbing": ""
         },
         "roulette": {
             "maxstavka": ""
         },
-        "lay": {
-            "userlay": ""
-        },
         "serverinfo": {
             "verificationLevels": {
                 "high": ""
-            },
-            "ruleschannel": ""
+            }
         },
         "perms": {
             "nouser": ""
         },
-        "ban": {
-            "nomention": ""
-        },
         "setprefix": {
             "setprefix": ""
-        },
-        "sleep": {
-            "usersleep": ""
         },
         "setslowmode": {
             "BotNotHaveRightsToManageChannels": ""
         },
-        "kick": {
-            "nomention": ""
-        },
         "bank": {
-            "withdrawfrombank": "",
-            "withdraw": {
-                "withdraw": ""
-            }
+            "withdrawfrombank": ""
         },
         "card": {
             "buycard": ""
         },
         "bankhack": {
-            "description": "",
             "failinrobbing": ""
-        },
-        "fish": {
-            "minimum5level": ""
         },
         "wood": {
             "woodgo": ""
         },
-        "spotify": {
-            "noTrack": ""
-        },
         "botinfo": {
             "description": "",
-            "servers": "",
             "localization": ""
         },
-        "animals": {
-            "randomdog": ""
-        },
         "bitcoin": {
-            "description": ""
-        },
-        "paybitcoin": {
             "description": ""
         },
         "paygift": {
             "description": ""
         },
         "pay": {
-            "description": "",
             "commission": ""
         },
-        "bug": {
-            "wait": ""
-        },
         "checkip": {
-            "neopredeleno": "",
-            "domen": ""
+            "neopredeleno": ""
         },
         "timeout": {
             "errorTime": ""
-        },
-        "clear": {
-            "menshe100": ""
         },
         "covid19": {
             "confirmed": ""
         },
         "vkuserinfo": {
-            "FIO": "",
             "sex": {
                 "man": ""
-            },
-            "relations": {
-                "activ": ""
             }
         },
         "cube": {
             "userDice": ""
         },
-        "eat": {
-            "usereating": ""
-        },
         "cointree": {
             "newmoneytime": ""
         },
         "leaders": {
-            "leadersofexp": "",
-            "leadersofboxes": "",
-            "leadersOfGemsOnHilarious": ""
+            "leadersofboxes": ""
         },
         "hiddeninleaders": {
             "disable": ""
         },
-        "donate": {
-            "rubles": ""
-        },
         "gift": {
             "havegifts": ""
         },
-        "mgift": {
-            "havegifts": ""
-        },
         "mine": {
-            "copper": "",
-            "giveexp": ""
+            "copper": ""
         },
         "minecraftserver": {
-            "description": ""
-        },
-        "gifttobox": {
             "description": ""
         },
         "hug": {
             "nomention": ""
         },
-        "hungry": {
-            "userhungry": ""
-        },
         "hypixelstats": {
             "description": "",
-            "totalkills": "",
             "rankcolor": "",
-            "game_activity": "",
             "games_played": ""
-        },
-        "help": {
-            "description": ""
         },
         "popit": {
             "description": ""
         },
         "profile": {
-            "translator": "",
             "level": "",
-            "snakescore": "",
             "card": ""
         },
         "resourceprofile": {
-            "description": "",
             "quartz": ""
         },
         "rankcard": {
-            "bg": {
-                "default2": ""
-            },
             "bgsinfo": {
                 "stones": ""
             }
         },
-        "whennewyear": {
-            "description": ""
-        },
         "minesell": {
-            "selllapis": "",
-            "selltitanium": ""
+            "selllapis": ""
         },
         "mopenbox": {
             "noResources": ""
         },
-        "openbox": {
-            "openbox": ""
-        },
         "ben": {
             "yes1": ""
-        },
-        "steam": {
-            "supportedLanguages": ""
         },
         "vimeworldgames": {
             "name": ""
         },
-        "vimeworldonline": {
-            "streams": {
-                "nickname": ""
-            }
-        },
         "photofilter": {
             "noavatar": ""
-        },
-        "robsnus": {
-            "victimmessage": ""
         },
         "paysnus": {
             "nosnus": ""
         },
-        "staffOnline3": "",
         "inCache1": "",
-        "inDB2": "",
         "amonguscode": {
             "code": ""
-        },
-        "msnuseat": {
-            "haveSnus": ""
         }
     },
     "slashcommand": {
         "dog": {
             "description": ""
         },
-        "koala": {
-            "description": ""
-        },
         "covid19": {
-            "description": ""
-        },
-        "weather": {
             "description": ""
         },
         "choose": {
@@ -312,29 +182,12 @@
                 }
             }
         },
-        "hug": {
-            "options": {
-                "user": {
-                    "description": ""
-                }
-            }
-        },
         "botlists": {
-            "description": ""
-        },
-        "invitebot": {
             "description": ""
         },
         "idea": {
             "options": {
                 "idea": {
-                    "description": ""
-                }
-            }
-        },
-        "bug": {
-            "options": {
-                "bug": {
                     "description": ""
                 }
             }
@@ -345,9 +198,6 @@
                     "description": ""
                 }
             }
-        },
-        "staff": {
-            "description": ""
         }
     }
 }
