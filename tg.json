@@ -1,27 +1,13 @@
 {
-    "general": {
-        "gender": {
-            "man1": ""
-        }
-    },
     "command": {
         "react": {
             "done": ""
         },
-        "card": {
-            "buycard": ""
-        },
         "checkip": {
             "neopredeleno": ""
         },
-        "gift": {
-            "havegifts": ""
-        },
         "profile": {
             "level": ""
-        },
-        "photofilter": {
-            "noavatar": ""
         }
     },
     "slashcommand": {
