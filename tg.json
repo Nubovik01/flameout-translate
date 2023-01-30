@@ -1,101 +1,53 @@
 {
     "general": {
-        "version": "",
         "permissions": {
-            "ViewChannel": "",
-            "ManageNicknames": ""
+            "ViewChannel": ""
         },
         "gender": {
             "man1": ""
         }
     },
     "command": {
-        "embeds": {
-            "rights": {
-                "dontBanYourself": ""
-            }
-        },
         "vote": {
             "link": ""
-        },
-        "shop": {
-            "upgradingpickaxe": {
-                "nomoneyforupgrade": ""
-            }
         },
         "react": {
             "done": ""
         },
-        "roulette": {
-            "maxstavka": ""
-        },
         "perms": {
             "nouser": ""
-        },
-        "setslowmode": {
-            "BotNotHaveRightsToManageChannels": ""
         },
         "card": {
             "buycard": ""
         },
-        "wood": {
-            "woodgo": ""
-        },
         "botinfo": {
             "localization": ""
-        },
-        "paygift": {
-            "description": ""
         },
         "checkip": {
             "neopredeleno": ""
         },
-        "covid19": {
-            "confirmed": ""
-        },
         "cube": {
             "userDice": ""
-        },
-        "leaders": {
-            "leadersofboxes": ""
         },
         "gift": {
             "havegifts": ""
         },
-        "minecraftserver": {
-            "description": ""
-        },
         "hypixelstats": {
-            "description": "",
-            "games_played": ""
+            "description": ""
         },
         "profile": {
             "level": ""
         },
-        "resourceprofile": {
-            "quartz": ""
-        },
         "minesell": {
             "selllapis": ""
         },
-        "ben": {
-            "yes1": ""
-        },
         "photofilter": {
             "noavatar": ""
-        },
-        "inCache1": ""
+        }
     },
     "slashcommand": {
         "dog": {
             "description": ""
-        },
-        "choose": {
-            "options": {
-                "two": {
-                    "description": ""
-                }
-            }
         },
         "idea": {
             "options": {
