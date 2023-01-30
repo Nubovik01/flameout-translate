@@ -1,13 +1,7 @@
 {
     "command": {
-        "react": {
-            "done": ""
-        },
         "checkip": {
             "neopredeleno": ""
-        },
-        "profile": {
-            "level": ""
         }
     },
     "slashcommand": {
