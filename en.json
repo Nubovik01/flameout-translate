@@ -37,15 +37,12 @@
         "Iz": "%s of %s",
         "Gift": "Gift",
         "Box": "Box",
-        "Snus": "Snus",
         "Wood": "Wood",
         "Hidden": "hidden",
         "NotHidden": "not hidden",
         "Yandex1": "Yandex",
-        "Yandex2": "yandex",
         "GitHub1": "GitHub",
         "botlists1": "Bot lists",
-        "botlists2": "bot lists",
         "tools": {
             "pickaxe": {
                 "wooden": "wooden",
@@ -93,13 +90,9 @@
         },
         "gender": {
             "man1": "Man",
-            "man2": "man",
             "man3": "Man",
-            "man4": "man",
             "woman1": "Woman",
-            "woman2": "woman",
-            "woman3": "Woman",
-            "woman4": "woman"
+            "woman3": "Woman"
         },
         "version2": "bot version",
         "hilsuMCserver": "Hilarious - Minecraft server.",
@@ -141,7 +134,6 @@
         "bughuntersOnline1": "Bug-hunters online",
         "whoAreWe1": "Who are we?",
         "cooldown": "cooldown! %s seconds.",
-        "halloween1": "Happy Halloween! Boo!",
         "happyholidays": "Happy New Year!",
         "nomoney1": "you do not have enough coins.",
         "wait1": "please wait...",
@@ -218,7 +210,6 @@
             "leaf": "Leafs: `%s`",
             "boxes": "Boxes: `%s`",
             "bitcoins": "Bitcoins: `%s`",
-            "snus": "Snus: `%s`",
             "levels": "Levels: `%s`",
             "experience": "Experience: `%s`",
             "wood": "Wood: `%s`",
@@ -645,7 +636,6 @@
             "leadersoflevel": "Leaders of level",
             "leadersofdonate": "Leaders of donate",
             "leadersofboxes": "Leaders of boxes",
-            "leadersofsnus": "Leaders of snus",
             "leadersOfSafeCoins": "Топ по монетам в сейфе",
             "leadersOfSafeLevel": "Топ по уровню сейфа",
             "leadersofsnake": "Leaders of snake",
@@ -669,7 +659,6 @@
         "donate": {
             "donate": "Help the project",
             "flameoutpremium": "`Forever` for `40` russian rubles.",
-            "dostup": "🎁 Commands | `%smgift`, `%smsnuseat`, `%sbankhack`, `%smopenbox`\n👀 Скрытие из топа | Команда, которая скроет вас из топа\n🆕 Items | Getting new items after the release.\n🎲 Cube | The maximum bet is `30,000` coins.\n🎰 Roulette | The maximum bet is `60,000` coins.\n💾 Тег | Персональный тег в телеграм чате\n📦 CBT | Access to closed beta tests.\n🌳 Money tree | More coins\n💳 Pension | x2 coins in pension!\n⛏️ Mine | Titanium pickaxe\n🪓 Lumberjack | Titanium axe",
             "description": "Support the project"
         },
         "gift": {
@@ -841,7 +830,6 @@
             "leafs": "Leaves: `%s`",
             "gifts": "Gifts: `%s`",
             "boxes": "Boxes: `%s`",
-            "snus": "Snus: `%s`",
             "snakescore": "Record in snake: `%s`",
             "pickaxe": "Pickaxe: `%s`",
             "axe": "Axe: `%s`",
@@ -936,7 +924,6 @@
             "nopefrombox": "You didn't get anything.",
             "coinsfrombox": "You got `%s` coins.",
             "expfrombox": "You got `%s` experience.",
-            "snusfrombox": "Dropped `%s` of snus.",
             "description": "Multi opening boxes"
         },
         "openbox": {
