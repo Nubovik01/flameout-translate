@@ -90,9 +90,7 @@
         },
         "gender": {
             "man1": "Man",
-            "man3": "Man",
-            "woman1": "Woman",
-            "woman3": "Woman"
+            "woman1": "Woman"
         },
         "version2": "bot version",
         "hilsuMCserver": "Hilarious - Minecraft server.",
@@ -134,7 +132,6 @@
         "bughuntersOnline1": "Bug-hunters online",
         "whoAreWe1": "Who are we?",
         "cooldown": "cooldown! %s seconds.",
-        "happyholidays": "Happy New Year!",
         "nomoney1": "you do not have enough coins.",
         "wait1": "please wait...",
         "error1": "⚠️ **An error has occurred!** %s",
