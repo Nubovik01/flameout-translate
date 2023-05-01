@@ -65,7 +65,6 @@
         },
         "pets": {
             "HohliDog1": "Hohli-dog",
-            "HohliDog2": "hohli-dog",
             "nopePet": "You don't have pet! %spet",
             "games1": "Games",
             "features1": "Features",
@@ -80,8 +79,7 @@
             },
             "breed1": "Breed",
             "breeds": {
-                "hohli1": "Hohli",
-                "hohli2": "hohli"
+                "hohli1": "Hohli"
             },
             "name1": "Name",
             "gender1": "Gender",
