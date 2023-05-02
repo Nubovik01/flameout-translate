@@ -226,6 +226,9 @@
             },
             "streams": {
                 "allstreams": "There are only `%s` streams on the server."
+            },
+            "players": {
+                "allplayers": "**`%s`** players on the server"
             }
         },
         "try": {
@@ -501,7 +504,8 @@
             "inserver2": "on server",
             "developers1": "Разработчики",
             "developers2": "Разработчики",
-            "description": "Shows almost complete information about the bot"
+            "description": "Shows almost complete information about the bot",
+            "aliases": "aliases"
         },
         "animals": {
             "randomcat": "Random cat",
@@ -574,7 +578,8 @@
             "menshe100": "specify a number less than `100`.",
             "bolshe0": "specify a number greater than `0`.",
             "deletemessages": "deleted messages: `%s`",
-            "description": "The bot will clear the specified number of messages in the channel where the command was executed"
+            "description": "The bot will clear the specified number of messages in the channel where the command was executed",
+            "botdoesntrightspermissionstoclear": "bot does not rights permission to manage messages"
         },
         "covid19": {
             "covid19": "COVID-19",
@@ -787,7 +792,7 @@
             "cooldown": "no garbage! New garbage will appear in `10` minutes.",
             "userjanitor": "You went to work as a janitor, the working day will end in `10` minutes.",
             "nomusor": "you did not find any garbage. Try again.",
-            "job": "For your work as a janitor, you received `500` coins.\n🍂 Leaves collected: `%s`",
+            "job": "For your work as a janitor, you received `500` coins 💰 and colleted `%s` leaves 🍂",
             "description": "work as a janitor"
         },
         "help": {
@@ -973,7 +978,22 @@
             "noScam": "is not a scam",
             "scam": "is a scam",
             "informationProvided": "Information provided by %s"
-        }
+        },
+        "bughuntersOnline4": "bug hunters online: %s",
+        "bughuntersOnline2": "Bug hunters online: %s",
+        "inDB5": "in DB",
+        "inDB2": "In db",
+        "inDB4": "In db: %s",
+        "inCache2": "In cache: %s",
+        "inDB1": "In DB",
+        "inDB8": "in db: %s",
+        "inCache4": "in cache: %s",
+        "DB2": "db",
+        "DB1": "DB",
+        "inDB3": "In DB: %s",
+        "inCache3": "in cache",
+        "bughuntersOnline3": "bug hunters online",
+        "inCache1": "In cache"
     },
     "slashcommand": {
         "cat": {
