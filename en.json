@@ -659,7 +659,9 @@
         "donate": {
             "donate": "Help the project",
             "flameoutpremium": "`Forever` for `40` russian rubles.",
-            "description": "Support the project"
+            "description": "Support the project",
+            "userBadgeInfo": "Your custom badge with your emoji and name. After purchase the badge will be shown in your profile for all users, and will also be added to GitBook. You can only buy a maximum of 4 badges.",
+            "premInfo": "premium features"
         },
         "gift": {
             "opengift": "Open gift",
@@ -993,7 +995,15 @@
         "inDB3": "In DB: %s",
         "inCache3": "in cache",
         "bughuntersOnline3": "bug hunters online",
-        "inCache1": "In cache"
+        "inCache1": "In cache",
+        "timeout": {
+            "done": "<@%s> time out given for %s"
+        },
+        "slashcommand": {
+            "hungry": {
+                "description": "be hungry"
+            }
+        }
     },
     "slashcommand": {
         "cat": {
