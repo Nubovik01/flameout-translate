@@ -1,6 +1,23 @@
 {
     "general": {
         "Sites": "Seiten",
-        "Bonus": "Bonus"
+        "Bonus": "Bonus",
+        "Admin": "Admin",
+        "PhotoFilters": "Fotofilter",
+        "Other": "Andere",
+        "Devs": "Entwickler",
+        "Updating": "Wird aktualisiert",
+        "clickHere2": "Hier klicken",
+        "executor": "Angefordert: %s",
+        "bank": "Bank",
+        "bitcoin": "Bitcoin",
+        "prefix": "Präfix",
+        "links": "Links",
+        "Info": "Info",
+        "Eco": "Ökonomie",
+        "Fun": "Spaß",
+        "Music": "Musik",
+        "Minecraft": "Minecraft",
+        "Bot": "Bot"
     }
 }
